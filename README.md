@@ -1,9 +1,8 @@
----
 title: "README"
 author: "Carolina Granthon"
 date: "2025-12-30"
 output: html_document
----
+
 
 # Analysis code for [Senescence and individual variation drive egg size and fertility of captive Gymnogyps californianus (California Condors)]  
 
