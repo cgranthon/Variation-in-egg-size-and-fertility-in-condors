@@ -1,0 +1,532 @@
+,id,laydate,year,weight,joeweight,length,breadth,volume,mage,fage,clutch,fertile,sire,srear,dam,drear,pair,minus,eggcount,double,doubletot,comments,eggsb,damsb,siresb,damF,sireF,relatedness
+1,95PIRU1,2/12/1995,1995,296,295.88,111.12,68.71,265.97,5,11,1,N,Tumusai,Artificial,Piru,Artificial,2,1994,0,N,0,Infertile. First Cal. Condor Egg at TPF,NA,34,53,0,0.0161,-0.0339
+2,95TECU1,2/25/1995,1995,270.3,263.66,106.67,66.2,237.01,6,12,1,N,Shasta,Artificial,Tecuya,Artificial,2,1994,0,N,0,Infertile.,NA,30,47,0,-0.0316,0.0046
+3,95TECU2,3/26/1995,1995,259.18,255.27,102.84,66.34,229.47,6,12,2,N,Shasta,Artificial,Tecuya,Artificial,2,1994,0,N,0,Infertile.,NA,30,47,0,-0.0316,0.0046
+4,95PIRU2,4/9/1995,1995,295.29,298.73,109.06,69.69,268.54,5,11,2,N,Tumusai,Artificial,Piru,Artificial,2,1994,0,N,0,Infertile.,NA,34,53,0,0.0161,-0.0339
+5,96TOWA1,2/18/1996,1996,255.6,262.45,109.8,65.1,235.92,5,7,1,N,Susil,Artificial,Towasinah,Artificial,3,1995,0,N,0,Infertile.,NA,49,67,-0.0508,-0.0316,-0.0179
+6,96TECU1,3/3/1996,1996,266.06,260.72,105.45,66.21,234.37,7,13,1,N,Shasta,Artificial,Tecuya,Artificial,3,1995,2,Y,1,Infertile.,NA,30,47,0,-0.0316,0.0046
+7,96PIRU1,3/7/1996,1996,308,311.83,110.3,70.8,280.32,6,12,1,N,Tumusai,Artificial,Piru,Artificial,3,1995,2,Y,1,Infertile.,NA,34,53,0,0.0161,-0.0339
+8,96TSUT1,3/11/1996,1996,270,266.17,109,65.8,239.27,7,5,1,N,Kaduku,Parent,Tsuts,Artificial,3,1995,0,N,0,Infertile.,NA,68,48,-0.0316,0.0525,0.05
+9,96TOWA2,3/17/1996,1996,270.9,269.59,110.4,65.8,242.34,5,7,2,NA,Susil,Artificial,Towasinah,Artificial,3,1995,0,N,0,Broken in Nest.,NA,49,67,-0.0508,-0.0316,-0.0179
+10,96TENE1,3/20/1996,1996,244.4,245.57,101.8,65.4,220.76,5,5,1,N,Pawoco,Artificial,Teneiya,Artificial,2,1995,0,N,0,Infertile.,NA,70,60,-0.0226,0.0525,0.0202
+11,96TECU2,4/2/1996,1996,257.1,255.47,104.3,65.9,229.65,7,13,2,Y,Shasta,Artificial,Tecuya,Artificial,3,1995,2,Y,1,First Egg Hatched at TPF.,150,30,47,0,-0.0316,0.0046
+12,96PIRU2,4/7/1996,1996,287.2,290.58,109.8,68.5,261.21,6,12,2,N,Tumusai,Artificial,Piru,Artificial,3,1995,2,Y,1,Infertile.,NA,34,53,0,0.0161,-0.0339
+13,97TSUT1,2/19/1997,1997,273.28,267.71,109.3,65.9,240.66,8,6,1,N,Kaduku,Parent,Tsuts,Artificial,4,1996,1,N,0,Infertile.,NA,68,48,-0.0316,0.0525,0.05
+14,97TECU1,2/23/1997,1997,274.2,264.61,106.51,66.37,237.87,8,14,1,Y,Shasta,Artificial,Tecuya,Artificial,4,1996,2,Y,2,Sent to L.A. Zoo at 10 days.,165,30,47,0,-0.0316,0.0046
+15,97HONS1,2/24/1997,1997,280.23,285.43,103.4,69.96,256.58,7,7,1,N,Oneia,Artificial,Honsi,Artificial,4,1996,0,N,0,Infertile.,NA,57,50,0.0549,-0.0508,-0.0077
+16,97CHUH1,2/28/1997,1997,281.55,281.73,106.55,68.47,253.26,6,7,1,N,O-Tum,Artificial,Chuhlna,Artificial,3,1996,0,N,0,Infertile.,NA,51,62,-0.0508,0.0549,-0.0077
+17,97TENE1,3/3/1997,1997,251.23,246.35,103.35,65.01,221.45,6,6,1,N,Pawoco,Artificial,Teneiya,Artificial,3,1996,1,N,0,Infertile.,NA,70,60,-0.0226,0.0525,0.0202
+18,97TOWA1,3/11/1997,1997,282.73,277.46,113.97,65.7,249.42,6,8,1,N,Susil,Artificial,Towasinah,Artificial,4,1996,2,Y,1,Infertile.,NA,49,67,-0.0508,-0.0316,-0.0179
+19,97HONS2,3/23/1997,1997,272.55,272.56,104.02,68.16,245.01,7,7,2,N,Oneia,Artificial,Honsi,Artificial,4,1996,0,N,0,Infertile.,NA,57,50,0.0549,-0.0508,-0.0077
+20,97PIRU1,3/29/1997,1997,287.26,287.56,108.5,68.55,258.5,7,13,1,Y,Tumusai,Artificial,Piru,Artificial,4,1996,2,Y,2,Early Stage Death,NA,34,53,0,0.0161,-0.0339
+511,97KITS1,4/16/1997,1997,NA,NA,NA,NA,NA,6,6,1,NA,Moko,Artificial,Kitsuk,Artificial,4,1996,0,N,0,Egg Shell Fragments Found in Flight on 16 Apr,NA,69,58,-0.0226,0.0161,-0.0364
+21,98PIRU1,1/21/1998,1998,316.53,320.05,108.83,72.21,287.71,8,14,1,Y,Tumusai,Artificial,Piru,Artificial,5,1997,1,N,2,Natural Hatch.,176,34,53,0,0.0161,-0.0339
+22,98TOWA1,1/27/1998,1998,287.82,283.49,111.14,67.25,254.84,7,9,1,N,Susil,Artificial,Towasinah,Artificial,5,1997,1,N,1,Infertile.,NA,49,67,-0.0508,-0.0316,-0.0179
+23,98KARE1,1/30/1998,1998,281.56,279.1,109.42,67.25,250.89,6,8,1,Y,Tapu,Parent,Kareya,Artificial,4,1997,0,N,0,Hand Hatch.,177,56,71,0.0525,-0.0316,0.05
+24,98TECU1,2/5/1998,1998,267.08,267.53,105.01,67.21,240.5,9,15,1,Y,Shasta,Artificial,Tecuya,Artificial,5,1997,1,N,2,Hand Hatch.,182,30,47,0,-0.0316,0.0046
+25,98TSUT1,2/6/1998,1998,275.1,268.77,108.87,66.16,241.61,9,7,1,N,Kaduku,Parent,Tsuts,Artificial,5,1997,1,N,0,Infertile.,NA,68,48,-0.0316,0.0525,0.05
+26,98HONS1,2/20/1998,1998,275.16,273.31,103.85,68.31,245.69,8,8,1,N,Oneia,Artificial,Honsi,Artificial,5,1997,2,Y,1,Infertile.,NA,57,50,0.0549,-0.0508,-0.0077
+27,98CHUH1,2/21/1998,1998,303.13,302.38,112.97,68.89,271.82,7,8,1,N,O-Tum,Artificial,Chuhlna,Artificial,4,1997,1,N,0,Infertile.,NA,51,62,-0.0508,0.0549,-0.0077
+28,98PIRU2,2/24/1998,1998,286.08,286.87,104.4,69.8,257.88,8,14,2,Y,Tumusai,Artificial,Piru,Artificial,5,1997,1,N,2,Returned to Adults Day 53,187,34,53,0,0.0161,-0.0339
+29,98TENE1,2/27/1998,1998,252.88,249.15,102.84,65.54,223.97,7,7,1,N,Pawoco,Artificial,Teneiya,Artificial,4,1997,1,N,0,Infertile.,NA,70,60,-0.0226,0.0525,0.0202
+30,98TOWA2,3/13/1998,1998,284.39,285.55,113.26,66.86,256.69,7,9,2,N,Susil,Artificial,Towasinah,Artificial,5,1997,1,N,1,Infertile.,NA,49,67,-0.0508,-0.0316,-0.0179
+31,98TECU2,3/16/1998,1998,257.14,252.77,104.05,65.63,227.22,9,15,2,Y,Shasta,Artificial,Tecuya,Artificial,5,1997,1,N,2,Returned to Adults Day 49,191,30,47,0,-0.0316,0.0046
+32,98HONS2,4/1/1998,1998,265.04,267.55,104.3,67.44,240.51,8,8,2,N,Oneia,Artificial,Honsi,Artificial,5,1997,2,Y,1,Infertile.,NA,57,50,0.0549,-0.0508,-0.0077
+33,98KITS1,4/2/1998,1998,288.76,291.12,108.51,68.97,261.7,7,7,1,Y,Moko,Artificial,Kitsuk,Artificial,5,1997,1,N,0,Natural Inc. From 17 to 27 Apr;Hatched by Chuhlna/O-Tum; Pulled 31 Apr due to Pair Problems,193,69,58,-0.0226,0.0161,-0.0364
+34,98CHUH2,4/7/1998,1998,291.46,291.57,113.16,67.59,262.1,7,8,2,N,O-Tum,Artificial,Chuhlna,Artificial,4,1997,1,N,0,Infertile.,NA,51,62,-0.0508,0.0549,-0.0077
+35,99TSUT1,2/1/1999,1999,277.76,277.2,109,67.15,249.19,10,8,1,N,Kaduku,Parent,Tsuts,Artificial,6,1998,1,N,0,Infertile,NA,68,48,-0.0316,0.0525,0.05
+36,99TOWA1,2/2/1999,1999,293.76,293.03,117.31,66.55,263.41,8,10,1,N,Susil,Artificial,Towasinah,Artificial,6,1998,2,Y,2,Infertile,NA,49,67,-0.0508,-0.0316,-0.0179
+37,99PIRU1,2/7/1999,1999,NA,NA,NA,NA,NA,9,15,1,NA,Tumusai,Artificial,Piru,Artificial,6,1998,2,Y,3,Broken in Flight,NA,34,53,0,0.0161,-0.0339
+38,99KARE1,2/13/1999,1999,291.78,291.73,110.59,68.39,262.25,7,9,1,Y,Tapu,Parent,Kareya,Artificial,5,1998,1,N,0,Late Term. Mortality,NA,56,71,0.0525,-0.0316,0.05
+39,99TECU1,2/26/1999,1999,264.87,264.17,102.65,67.55,237.47,10,16,1,Y,Shasta,Artificial,Tecuya,Artificial,6,1998,2,Y,3,,203,30,47,0,-0.0316,0.0046
+40,99TENE1,3/3/1999,1999,226.06,226.32,100.59,63.16,203.44,8,8,1,N,Pawoco,Artificial,Teneiya,Artificial,5,1998,1,N,0,Infertile,NA,70,60,-0.0226,0.0525,0.0202
+41,99HONS1,3/6/1999,1999,276.9,275.19,103.56,68.64,247.37,9,9,1,N,Oneia,Artificial,Honsi,Artificial,6,1998,2,Y,2,Infertile,NA,57,50,0.0549,-0.0508,-0.0077
+42,99PIRU2,3/8/1999,1999,288.01,288.38,105.22,69.71,259.24,9,15,2,Y,Tumusai,Artificial,Piru,Artificial,6,1998,2,Y,3,Returned to Adults Day 52,207,34,53,0,0.0161,-0.0339
+43,99ROTC1,3/9/1999,1999,254.46,251.64,101.35,66.35,226.21,7,8,1,N,Atishwin,Artificial,Rotciwi,Artificial,5,1998,0,N,0,Infertile,NA,59,73,0.0161,-0.0226,-0.0364
+44,99TSUT2,3/10/1999,1999,265.51,260.28,103.67,66.72,233.98,10,8,2,N,Kaduku,Parent,Tsuts,Artificial,6,1998,1,N,0,Infertile,NA,68,48,-0.0316,0.0525,0.05
+45,99ALAP1,3/15/1999,1999,262.81,253.92,106.69,64.96,228.26,7,7,1,N,Qasil,Artificial,Alapay,Artificial,2,1998,0,N,0,Infertile,NA,82,74,0.0549,-0.0226,0.0061
+46,99TOWA2,3/18/1999,1999,276.19,272.85,111.26,65.94,245.27,8,10,2,N,Susil,Artificial,Towasinah,Artificial,6,1998,2,Y,2,Infertile and Bubble Egg,NA,49,67,-0.0508,-0.0316,-0.0179
+48,99TECU2,3/28/1999,1999,255.12,250.04,102.27,65.84,224.77,10,16,2,Y,Shasta,Artificial,Tecuya,Artificial,6,1998,2,Y,3,Fostered to Kitsuk/Moko; Pulled After 8 Days Due to Pair Problems,210,30,47,0,-0.0316,0.0046
+47,99KITS1,3/28/1999,1999,300.02,303.76,110.04,69.96,273.06,8,8,1,Y,Moko,Artificial,Kitsuk,Artificial,6,1998,1,N,0,Given to Tecuya/Shasta,211,69,58,-0.0226,0.0161,-0.0364
+49,99CHUH1,4/2/1999,1999,300.57,300.66,116.31,67.7,270.27,8,9,1,N,O-Tum,Artificial,Chuhlna,Artificial,5,1998,2,Y,1,Infertile.,NA,51,62,-0.0508,0.0549,-0.0077
+50,99HONS2,4/3/1999,1999,263.47,262.85,102.41,67.46,236.29,9,9,2,N,Oneia,Artificial,Honsi,Artificial,6,1998,2,Y,2,Infertile.,NA,57,50,0.0549,-0.0508,-0.0077
+51,99TENE2,4/4/1999,1999,242.47,237.37,102.05,64.22,213.38,8,8,2,N,Pawoco,Artificial,Teneiya,Artificial,5,1998,1,N,0,Infertile,NA,70,60,-0.0226,0.0525,0.0202
+52,00HOSI1,1/14/2000,2000,262.77,259.2,101.92,67.15,233,10,7,1,N,Maluk,Artificial,Hosima,Parent,3,1999,0,N,0,Infertile.,NA,84,55,0.0023,0.0525,0.0908
+53,00TSUT1,2/11/2000,2000,288.58,285.39,108.63,68.25,256.54,11,9,1,N,Kaduku,Parent,Tsuts,Artificial,7,1999,2,Y,1,Infertile.,NA,68,48,-0.0316,0.0525,0.05
+54,00TOWA1,2/17/2000,2000,282.3,277.91,108.63,67.35,249.82,9,11,1,N,Susil,Artificial,Towasinah,Artificial,7,1999,2,Y,3,Infertile.,NA,49,67,-0.0508,-0.0316,-0.0179
+55,00LIKU1,2/22/2000,2000,277.13,273.47,106.64,67.43,245.83,7,7,1,N,Wishtoyo,Artificial,Likuyi,Artificial,3,1999,0,N,0,Infertile.,NA,96,83,-0.0591,0.0023,0.036
+57,00TECU1,2/22/2000,2000,263.62,262.22,101.02,67.84,235.71,11,17,1,Y,Shasta,Artificial,Tecuya,Artificial,7,1999,2,Y,4,Hand Hatched;Stuck to Membrane,224,30,47,0,-0.0316,0.0046
+56,00PIRU1,2/22/2000,2000,304.76,305.37,108.75,70.56,274.51,10,16,1,Y,Tumusai,Artificial,Piru,Artificial,7,1999,2,Y,4,Natural Hatch.,223,34,53,0,0.0161,-0.0339
+58,00HONS1,2/25/2000,2000,273.65,271.54,105.17,67.66,244.1,10,10,1,N,Oneia,Artificial,Honsi,Artificial,7,1999,2,Y,3,Infertile.,NA,57,50,0.0549,-0.0508,-0.0077
+59,00ALAP1,2/27/2000,2000,268.18,256.01,105.35,65.64,230.13,8,8,1,N,Qasil,Artificial,Alapay,Artificial,3,1999,1,N,0,Infertile.,NA,82,74,0.0549,-0.0226,0.0061
+60,00CHUH1,3/1/2000,2000,305.17,305.22,117.31,67.92,274.37,9,10,1,Y,O-Tum,Artificial,Chuhlna,Artificial,6,1999,1,N,1,Manual Pip,227,51,62,-0.0508,0.0549,-0.0077
+61,00KARE1,3/2/2000,2000,282.41,278.36,110.34,66.88,250.23,8,10,1,Y,Tapu,Parent,Kareya,Artificial,6,1999,1,N,0,Returned to Adults Day 53,228,56,71,0.0525,-0.0316,0.05
+62,00HOSI2,3/5/2000,2000,258.37,249.73,100.67,66.32,224.49,10,7,2,Y,Maluk,Artificial,Hosima,Parent,3,1999,0,N,0,Hand Hatched,232,84,55,0.0023,0.0525,0.0908
+63,00TSUT2,3/13/2000,2000,261.06,256.91,106.86,65.29,230.95,11,9,2,N,Kaduku,Parent,Tsuts,Artificial,7,1999,2,Y,1,Infertile.,NA,68,48,-0.0316,0.0525,0.05
+64,00HUYA1,3/14/2000,2000,280.06,278.21,113.69,65.87,250.1,6,7,1,Y,Antop,Artificial,Huya,Artificial,3,1999,0,N,0,Natural Hatch.,234,88,99,0.0549,0.0525,0.1113
+65,00SULK1,3/15/2000,2000,NA,270.97,104.27,67.88,243.59,7,7,1,NA,Kuhu,Artificial,Sulkuw,Artificial,3,1999,0,N,0,"Broken by Male; Female Inc. in PM and Am, Found Dummy in Flight at Noon",NA,93,91,-0.0508,-0.0083,-0.0052
+66,00ROTC1,3/19/2000,2000,239.26,239.61,99.36,65.39,215.4,8,9,1,N,Atishwin,Artificial,Rotciwi,Artificial,6,1999,1,N,0,Infertile.,NA,59,73,0.0161,-0.0226,-0.0364
+68,00TOWA2,3/21/2000,2000,256.31,252,108.61,64.14,226.54,9,11,2,N,Susil,Artificial,Towasinah,Artificial,7,1999,2,Y,3,Infertile.,NA,49,67,-0.0508,-0.0316,-0.0179
+67,00HAKU1,3/21/2000,2000,296.03,295.67,104.79,70.73,265.79,7,8,1,N,Siwon,Artificial,Haku,Artificial,3,1999,0,N,0,Infertile.,NA,77,85,0.0525,-0.0375,0.0704
+69,00TECU2,3/24/2000,2000,247.17,248.84,102.84,65.5,223.69,11,17,2,Y,Shasta,Artificial,Tecuya,Artificial,7,1999,2,Y,4,Gave to Adults at Pip; Pulled to Hand Hatch Then Returned.,235,30,47,0,-0.0316,0.0046
+70,00JALA1,3/26/2000,2000,237.63,242.91,106.01,63.74,218.36,7,8,1,N,Alishaw,Artificial,Jalama,Artificial,3,1999,0,N,0,Infertile.,NA,80,90,-0.0508,-0.0083,-0.0052
+71,00HONS2,3/27/2000,2000,266.72,263.61,100.9,68.06,236.96,10,10,2,N,Oneia,Artificial,Honsi,Artificial,7,1999,2,Y,3,Infertile.,NA,57,50,0.0549,-0.0508,-0.0077
+72,00ALAP2,3/29/2000,2000,264.38,255.4,106.72,65.14,229.59,8,8,2,N,Qasil,Artificial,Alapay,Artificial,3,1999,1,N,0,Infertile.,NA,82,74,0.0549,-0.0226,0.0061
+73,00HOY1,3/31/2000,2000,273.28,276.97,101.64,69.51,248.98,9,7,1,N,Preghawish,Artificial,Hoy,Artificial,3,1999,0,N,0,Infertile.,NA,97,61,0.004,0.0525,0.0708
+74,00KITS1,4/4/2000,2000,304.09,306.54,110.92,70,275.56,9,9,1,Y,Moko,Artificial,Kitsuk,Artificial,7,1999,1,N,0,Early Term Death,NA,69,58,-0.0226,0.0161,-0.0364
+75,00TENE1,4/8/2000,2000,250.04,244.4,106.49,63.79,219.7,9,9,1,N,Pawoco,Artificial,Teneiya,Artificial,6,1999,2,Y,1,Infertile.,NA,70,60,-0.0226,0.0525,0.0202
+76,00KOYO1,4/10/2000,2000,262.5,259.83,106.34,65.82,233.57,6,8,1,N,Inja,Artificial,Koyo,Artificial,3,1999,0,N,0,Infertile.,NA,76,104,0.0525,-0.0375,0.0704
+77,00CHUH2,4/29/2000,2000,282.42,278.07,107.54,67.71,249.97,9,10,2,N,O-Tum,Artificial,Chuhlna,Artificial,6,1999,1,N,1,Infertile.,NA,51,62,-0.0508,0.0549,-0.0077
+78,01LIKU1,2/8/2001,2001,270.93,267.57,103.54,67.69,240.53,8,8,1,N,Wishtoyo,Artificial,Likuyi,Artificial,4,2000,1,N,0,Infertile,NA,96,83,-0.0591,0.0023,0.036
+79,01PIRU1,2/13/2001,2001,293.44,296.24,105.62,70.52,266.3,11,17,1,Y,Tumusai,Artificial,Piru,Artificial,8,2000,1,N,4,Hand Hatched; Stuck to Membrane;Very Active,240,34,53,0,0.0161,-0.0339
+80,01HOSI1,2/14/2001,2001,267.35,262.53,99.84,68.28,235.99,11,8,1,Y,Maluk,Artificial,Hosima,Parent,4,2000,2,Y,1,Pip and Started Rotating Towards Bottem;Hand Hatched; ,241,84,55,0.0023,0.0525,0.0908
+81,01ROTC1,2/16/2001,2001,273.06,275.83,104.32,68.47,247.96,9,10,1,N,Atishwin,Artificial,Rotciwi,Artificial,7,2000,1,N,0,Infertile,NA,59,73,0.0161,-0.0226,-0.0364
+82,01TSUT1,2/22/2001,2001,273.83,274.41,106.5,67.59,246.67,12,10,1,N,Kaduku,Parent,Tsuts,Artificial,8,2000,2,Y,2,Infertile,NA,68,48,-0.0316,0.0525,0.05
+83,01TECU1,2/25/2001,2001,256.02,253.43,100.46,66.88,227.82,12,18,1,Y,Shasta,Artificial,Tecuya,Artificial,8,2000,2,Y,5,Fostered to Tsuts; Pulled Due to ♀ Attacking ♂; Brooding and Not Feeding,243,30,47,0,-0.0316,0.0046
+84,01KARE1,3/4/2001,2001,286.97,283.8,110.44,67.5,255.12,9,11,1,Y,Tapu,Parent,Kareya,Artificial,7,2000,1,N,0,Gave to Adults on Day48; Pulled for 3 Hours to Hand Hatch Then Returned,246,56,71,0.0525,-0.0316,0.05
+85,01HAKU1,3/11/2001,2001,306.18,311.35,109.05,71.15,279.89,8,9,1,Y,Siwon,Artificial,Haku,Artificial,4,2000,1,N,0,Died Day 53,NA,77,85,0.0525,-0.0375,0.0704
+86,01HOSI2,3/13/2001,2001,254.94,249.88,103.84,65.32,224.63,11,8,2,Y,Maluk,Artificial,Hosima,Parent,4,2000,2,Y,1,Gave to Adults;Pulled to Hand Hatched,250,84,55,0.0023,0.0525,0.0908
+87,01KOYO1,3/13/2001,2001,270.29,271.49,105.46,67.56,244.05,7,9,1,Y,Inja,Artificial,Koyo,Artificial,4,2000,1,N,0,Hand Hatched; Given to Hosima/Maluk,249,76,104,0.0525,-0.0375,0.0704
+88,01KSEN1,3/14/2001,2001,288.07,281.92,116.51,65.5,253.43,8,8,1,Y,Xopoy,Artificial,Ksen,Artificial,4,2000,0,N,0,Hand Hatched,252,94,92,-0.0226,0.0161,-0.0364
+89,01PIRU2,3/14/2001,2001,283.75,286.11,104.66,69.62,257.19,11,17,2,Y,Tumusai,Artificial,Piru,Artificial,8,2000,1,N,4,,248,34,53,0,0.0161,-0.0339
+90,01CHUH1,3/16/2001,2001,309.93,303.14,109.94,69.92,272.5,10,11,1,Y,O-Tum,Artificial,Chuhlna,Artificial,7,2000,2,Y,2,Returned to Adults on Day 52; Dead ≤ Day 56; No Pip,NA,51,62,-0.0508,0.0549,-0.0077
+91,01KITS1,3/16/2001,2001,305.82,306.47,108.28,70.84,275.49,10,10,1,Y,Moko,Artificial,Kitsuk,Artificial,8,2000,1,N,0,"After Egg Pipped and Vocalized, ♂ Began Defending the Egg From The ♀",253,69,58,-0.0226,0.0161,-0.0364
+92,01TECU2,3/24/2001,2001,260.43,260.74,102.04,67.31,234.39,12,18,2,Y,Shasta,Artificial,Tecuya,Artificial,8,2000,2,Y,5,"Returned to Adults on Day 29; Pulled To Hand Hatched, Then Returned to Adults",257,30,47,0,-0.0316,0.0046
+93,01JALA1,3/26/2001,2001,261.93,259.04,108.24,65.14,232.86,10,9,1,N,Susil,Artificial,Jalama,Artificial,1,2000,1,N,0,Infertile,NA,80,67,-0.0508,-0.0316,-0.0179
+512,01TOWA1,3/27/2001,2001,NA,NA,NA,NA,NA,8,12,1,NA,Alishaw,Artificial,Towasinah,Artificial,1,2000,2,Y,4,"Shell Fragments Found in Flight on 2 Apr, Suspected Lay Date 27 Mar",NA,49,90,-0.0508,-0.0083,-0.0052
+94,01HOY1,3/28/2001,2001,291.36,285.44,102.58,70.24,256.59,10,8,1,N,Preghawish,Artificial,Hoy,Artificial,4,2000,1,N,0,Infertile,NA,97,61,0.004,0.0525,0.0708
+95,01LIKU2,3/30/2001,2001,280.26,274.91,106.79,67.56,247.13,8,8,2,Y,Wishtoyo,Artificial,Likuyi,Artificial,4,2000,1,N,0,Given to Sulkuw/Kuhu,258,96,83,-0.0591,0.0023,0.036
+96,01SULK1,3/30/2001,2001,298.15,293.16,107.24,69.62,263.53,8,8,1,Y,Kuhu,Artificial,Sulkuw,Artificial,4,2000,1,N,0,,259,93,91,-0.0508,-0.0083,-0.0052
+97,01HONS1,4/14/2001,2001,260.06,259.21,101.08,67.43,233.01,7,11,1,Y,Antop,Artificial,Honsi,Artificial,1,2000,2,Y,4,There is Some Question to the Lay Date,261,57,99,0.0549,0.0525,0.1113
+98,02ROTC1,1/24/2002,2002,260.3,260.9,102.62,67.14,234.53,10,11,1,N,Atishwin,Artificial,Rotciwi,Artificial,8,2001,1,N,0,Infertile,NA,59,73,0.0161,-0.0226,-0.0364
+99,02HOSI1,2/16/2002,2002,261.73,262.52,102.16,67.5,235.99,12,9,1,Y,Maluk,Artificial,Hosima,Parent,5,2001,2,Y,2,Returned to Adults After Pip; Chick Rotated 75%; Removed Cap,272,84,55,0.0023,0.0525,0.0908
+100,02LIKU1,2/20/2002,2002,289.09,283.89,107.24,68.51,255.2,9,9,1,Y,Wishtoyo,Artificial,Likuyi,Artificial,5,2001,2,Y,1,,273,96,83,-0.0591,0.0023,0.036
+101,02KARE1,2/23/2002,2002,286.8,289.39,103.38,70.45,260.14,10,12,1,Y,Tapu,Parent,Kareya,Artificial,8,2001,1,N,0,Late Term Death,NA,56,71,0.0525,-0.0316,0.05
+103,02KSEN1,2/24/2002,2002,301.31,261.9,100.13,68.1,235.43,9,9,1,Y,Xopoy,Artificial,Ksen,Artificial,5,2001,1,N,0,,276,94,92,-0.0226,0.0161,-0.0364
+102,02HONS1,2/24/2002,2002,264.42,263.29,100.13,68.28,236.68,8,12,1,Y,Antop,Artificial,Honsi,Artificial,2,2001,1,N,4,Given to Kareya/Tapu Day 54,274,57,99,0.0549,0.0525,0.1113
+104,02KOYO1,2/25/2002,2002,267.12,267.45,104.23,67.45,240.42,8,10,1,Y,Inja,Artificial,Koyo,Artificial,5,2001,1,N,0,,275,76,104,0.0525,-0.0375,0.0704
+105,02TOWA1,3/5/2002,2002,296.53,273.38,106.26,67.54,245.75,9,13,1,N,Alishaw,Artificial,Towasinah,Artificial,2,2001,1,N,4,Infertile,NA,49,90,-0.0508,-0.0083,-0.0052
+106,02JALA1,3/6/2002,2002,258.94,257.17,105.06,65.88,231.18,11,10,1,N,Susil,Artificial,Jalama,Artificial,2,2001,1,N,0,Infertile,NA,80,67,-0.0508,-0.0316,-0.0179
+107,02TECU1,3/7/2002,2002,255.83,254.57,100.25,67.1,228.84,13,19,1,Y,Shasta,Artificial,Tecuya,Artificial,9,2001,2,Y,6,Returned to Adults Day 48; Removed Cap on Day 57,280,30,47,0,-0.0316,0.0046
+108,02CHUH1,3/8/2002,2002,311.03,301.23,107.58,70.46,270.79,11,12,1,Y,O-Tum,Artificial,Chuhlna,Artificial,8,2001,1,N,2,"PipHigh onEgg;AfterCompletingRotation,Hole was tooSmall;Completed byHand;Head overRtWing",282,51,62,-0.0508,0.0549,-0.0077
+109,02HUYA1,3/9/2002,2002,280.24,279.53,112.99,66.23,251.28,12,9,1,Y,Oneia,Artificial,Huya,Artificial,2,2001,0,N,0,,281,88,50,0.0549,-0.0508,-0.0077
+110,02HAKU1,3/14/2002,2002,311.33,313.62,108.59,71.56,281.93,9,10,1,N,Siwon,Artificial,Haku,Artificial,5,2001,1,N,0,Infertile,NA,77,85,0.0525,-0.0375,0.0704
+111,02KITS1,3/16/2002,2002,308.31,311.77,108.89,71.25,280.26,11,11,1,Y,Moko,Artificial,Kitsuk,Artificial,9,2001,1,N,0,Late Term (Day55) Death,NA,69,58,-0.0226,0.0161,-0.0364
+112,02LIKU2,3/18/2002,2002,283.41,281.78,105.61,68.78,253.3,9,9,2,N,Wishtoyo,Artificial,Likuyi,Artificial,5,2001,2,Y,1,Infertile,NA,96,83,-0.0591,0.0023,0.036
+113,02HOY1,3/28/2002,2002,292.09,292.97,103.22,70.94,263.36,13,9,1,N,Kaduku,Parent,Hoy,Artificial,1,2001,1,N,0,Infertile,NA,97,48,0.004,0.0525,0.0708
+114,02ROTC2,3/31/2002,2002,269.64,277.71,105.03,68.47,249.64,10,11,2,N,Atishwin,Artificial,Rotciwi,Artificial,8,2001,1,N,0,Infertile,NA,59,73,0.0161,-0.0226,-0.0364
+115,02SULK1,4/2/2002,2002,276.4,230.65,104.56,62.54,207.34,9,9,1,Y,Kuhu,Artificial,Sulkuw,Artificial,5,2001,1,N,0,Late Term (Day 54) Death,NA,93,91,-0.0508,-0.0083,-0.0052
+116,02TENE1,4/29/2002,2002,239.24,237.38,107.61,62.54,213.39,11,11,1,N,Preghawish,Artificial,Teneiya,Artificial,1,2001,0,N,1,Almost Yolkless,NA,70,61,-0.0226,0.0525,0.0202
+117,03HUYA1,1/30/2003,2003,285,284.95,109.07,68.06,256.15,13,10,1,Y,Oneia,Artificial,Huya,Artificial,3,2002,1,N,0,Returned to Adults After Pip,291,88,50,0.0549,-0.0508,-0.0077
+118,03KSEN1,2/7/2003,2003,322.5,312.73,115.49,69.29,281.12,10,10,1,Y,Xopoy,Artificial,Ksen,Artificial,6,2002,1,N,0,,293,94,92,-0.0226,0.0161,-0.0364
+119,03TSUT1,2/11/2003,2003,276.91,276.2,107.96,67.35,248.28,12,12,1,N,Pawoco,Artificial,Tsuts,Artificial,2,2002,0,N,2,Fertile (NOT),NA,68,60,-0.0316,0.0525,0.05
+120,03HOSI1,2/12/2003,2003,273.3,266.54,102.93,67.76,239.61,13,10,1,Y,Maluk,Artificial,Hosima,Parent,6,2002,1,N,2,Manual Pip; Egg Died on Day 55,NA,84,55,0.0023,0.0525,0.0908
+121,03LIKU1,2/14/2003,2003,279.26,273.82,107.51,67.2,246.15,10,10,1,Y,Wishtoyo,Artificial,Likuyi,Artificial,6,2002,2,Y,2,Inc. by Huya/Oneia14 Feb to 1 Mar; Fostered to Hosima/Maluk,296,96,83,-0.0591,0.0023,0.036
+122,03TECU1,2/14/2003,2003,274.59,265.04,101.54,68.03,238.26,14,20,1,Y,Shasta,Artificial,Tecuya,Artificial,10,2002,1,N,6,Inc. by Tsuts/Pawoco from 15 Feb to 01 Mar,297,30,47,0,-0.0316,0.0046
+123,03TOWA1,2/14/2003,2003,306.08,308.5,117.12,68.34,277.32,10,14,1,N,Alishaw,Artificial,Towasinah,Artificial,3,2002,1,N,4,Infertile,NA,49,90,-0.0508,-0.0083,-0.0052
+124,03PIRU1,2/18/2003,2003,289.88,293.02,106.03,70,263.41,13,19,1,Y,Tumusai,Artificial,Piru,Artificial,10,2002,0,N,4,Egg Died on Day 53,NA,34,53,0,0.0161,-0.0339
+125,03HONS1,2/19/2003,2003,278.36,272.95,105.28,67.8,245.37,9,13,1,Y,Antop,Artificial,Honsi,Artificial,3,2002,1,N,4,Fostered to Piru/Tumusai at Pip,299,57,99,0.0549,0.0525,0.1113
+126,03KOYO1,2/21/2003,2003,280.44,284.05,104.96,69.27,255.34,9,11,1,Y,Inja,Artificial,Koyo,Artificial,6,2002,1,N,0,Natural Hatch,300,76,104,0.0525,-0.0375,0.0704
+127,03KITS1,2/23/2003,2003,302.72,308.69,109.53,70.69,277.5,12,12,1,Y,Moko,Artificial,Kitsuk,Artificial,10,2002,1,N,0,"Hand Hatch; Sticky Chick,Poor Seal",302,69,58,-0.0226,0.0161,-0.0364
+128,03KARE1,2/27/2003,2003,291.65,289.79,104.62,70.08,260.5,11,13,1,Y,Tapu,Parent,Kareya,Artificial,9,2002,1,N,0,Returned to Adults After Pip,304,56,71,0.0525,-0.0316,0.05
+129,03CHUH1,3/3/2003,2003,302.07,289.96,105.1,69.94,260.65,12,13,1,N,O-Tum,Artificial,Chuhlna,Artificial,9,2002,1,N,2,Infertile; Yolk Breaking Down,NA,51,62,-0.0508,0.0549,-0.0077
+130,03ROTC1,3/8/2003,2003,244.06,248.09,102.06,65.65,223.01,11,12,1,N,Atishwin,Artificial,Rotciwi,Artificial,9,2002,2,Y,1,Infertile; Yolk Breaking Down,NA,59,73,0.0161,-0.0226,-0.0364
+132,03HOY1,3/13/2003,2003,292.18,290.44,102.04,71.04,261.09,14,10,1,Y,Kaduku,Parent,Hoy,Artificial,2,2002,1,N,0,Died Day 55,NA,97,48,0.004,0.0525,0.0708
+131,03HAKU,3/13/2003,2003,313.06,317.78,111.02,71.24,285.66,10,11,1,Y,Siwon,Artificial,Haku,Artificial,6,2002,1,N,0,Died Day 55,NA,77,85,0.0525,-0.0375,0.0704
+133,03TECU2,3/14/2003,2003,254.22,252.53,99.12,67.21,227.01,14,20,2,Y,Shasta,Artificial,Tecuya,Artificial,10,2002,1,N,6,Hand Hatch,309,30,47,0,-0.0316,0.0046
+134,03TENE1,3/20/2003,2003,254.11,257.25,106.77,65.36,231.25,12,12,1,Y,Preghawish,Artificial,Teneiya,Artificial,2,2002,1,N,1,Natural Hatch,314,70,61,-0.0226,0.0525,0.0202
+135,03SULK1,3/23/2003,2003,300.23,298.06,107.36,70.16,267.94,10,10,1,Y,Kuhu,Artificial,Sulkuw,Artificial,6,2002,1,N,0,"Hand Hatch; Pipped Then Rotated W/o Breaking Shell; Head Over Rt. Wing,Sticky Chick",316,93,91,-0.0508,-0.0083,-0.0052
+136,03JALA1,3/26/2003,2003,242.6,239.06,104.82,63.59,214.9,12,11,1,N,Susil,Artificial,Jalama,Artificial,3,2002,1,N,0,Infertile,NA,80,67,-0.0508,-0.0316,-0.0179
+137,03TOWA2,4/1/2003,2003,279.57,276.78,113.14,65.86,248.81,10,14,2,N,Alishaw,Artificial,Towasinah,Artificial,3,2002,1,N,4,Infertile,NA,49,90,-0.0508,-0.0083,-0.0052
+138,03CHUH2,4/23/2003,2003,291.61,292.55,113.54,67.59,262.98,12,13,2,Y,O-Tum,Artificial,Chuhlna,Artificial,9,2002,1,N,2,Tranfered To LAZoo on 3 Jun,319,51,62,-0.0508,0.0549,-0.0077
+139,03SULK2,4/28/2003,2003,274.75,285.92,113.54,66.82,257.02,10,10,2,Y,Kuhu,Artificial,Sulkuw,Artificial,6,2002,1,N,0,Tranfered To LAZoo on 3 Jun,320,93,91,-0.0508,-0.0083,-0.0052
+140,04HUYA1,2/6/2004,2004,294.47,291.01,108,69.12,261.6,14,11,1,Y,Oneia,Artificial,Huya,Artificial,4,2003,1,N,0,Came In Dead,NA,88,50,0.0549,-0.0508,-0.0077
+141,04HOSI1,2/11/2004,2004,279.28,276.24,102.4,69.16,248.32,14,11,1,Y,Maluk,Artificial,Hosima,Parent,7,2003,1,N,2,Hand Hatch; ,324,84,55,0.0023,0.0525,0.0908
+142,04KOYO1,2/16/2004,2004,249.76,285.4,103.36,69.97,256.56,10,12,1,Y,Inja,Artificial,Koyo,Artificial,7,2003,1,N,0,Natural Hatch,327,76,104,0.0525,-0.0375,0.0704
+143,04KITS1,2/20/2004,2004,306.19,306.22,110.33,70.15,275.27,13,13,1,Y,Moko,Artificial,Kitsuk,Artificial,11,2003,1,N,0,Aircell in Small End;Manual Pip; Chick Pipped on Day 55; Hand Hatch,329,69,58,-0.0226,0.0161,-0.0364
+144,04PIRU1,2/22/2004,2004,315.96,319.72,107.11,72.75,287.41,14,20,1,Y,Tumusai,Artificial,Piru,Artificial,11,2003,1,N,4,Natural Hatch,331,34,53,0,0.0161,-0.0339
+145,04HONS1,2/26/2004,2004,278.25,277.92,106.6,67.99,249.84,10,14,1,Y,Antop,Artificial,Honsi,Artificial,4,2003,1,N,4,Aircell in Small End;Manual Pip; Hand Hatch,334,57,99,0.0549,0.0525,0.1113
+146,04TECU1,2/27/2004,2004,259.25,268.27,103.23,67.88,241.16,11,21,1,Y,Alishaw,Artificial,Tecuya,Artificial,1,2003,2,Y,7,"Late Term Death; Wt. Loss on Day 54, 13.4%",NA,30,90,0,-0.0083,0.0062
+147,04TOWA1,3/3/2004,2004,297.89,298.29,114.21,68.05,268.14,13,15,1,N,Susil,Artificial,Towasinah,Artificial,4,2003,2,Y,5,Infertile,NA,49,67,-0.0508,-0.0316,-0.0179
+148,04KSEN1,3/5/2004,2004,316.02,308.68,114.89,69.02,277.49,11,11,1,Y,Xopoy,Artificial,Ksen,Artificial,7,2003,1,N,0,Gaven to Kareya/Tapu,337,94,92,-0.0226,0.0161,-0.0364
+149,04CHUH1,3/9/2004,2004,312.72,301.73,107.73,70.47,271.24,13,14,1,Y,O-Tum,Artificial,Chuhlna,Artificial,10,2003,2,Y,3,"Manual Hatch; Head and Neck Very Edemic, Died Shortly Being Given to Hosima/Maluk",339,51,62,-0.0508,0.0549,-0.0077
+150,04HOY1,3/10/2004,2004,283.08,282.49,101.26,70.33,253.94,15,11,1,Y,Kaduku,Parent,Hoy,Artificial,3,2003,1,N,0,Late Term Death,NA,97,48,0.004,0.0525,0.0708
+151,04HAKU1,3/11/2004,2004,306.44,302.3,108.33,70.34,271.74,11,12,1,Y,Siwon,Artificial,Haku,Artificial,7,2003,1,N,0,Midterm Death,NA,77,85,0.0525,-0.0375,0.0704
+152,04LIKU1,3/11/2004,2004,NA,NA,NA,NA,NA,11,11,1,NA,Wishtoyo,Artificial,Likuyi,Artificial,7,2003,1,N,2,Broken in Nest; Poor Shell Quality,NA,96,83,-0.0591,0.0023,0.036
+153,04KARE1,3/12/2004,2004,286.05,286.03,109.87,67.94,257.12,12,14,1,N,Tapu,Parent,Kareya,Artificial,10,2003,1,N,0,Infertile,NA,56,71,0.0525,-0.0316,0.05
+154,04SULK1,3/12/2004,2004,303.15,309.78,107.53,71.47,278.47,11,11,1,Y,Kuhu,Artificial,Sulkuw,Artificial,7,2003,2,Y,1,Late Term Death,NA,93,91,-0.0508,-0.0083,-0.0052
+155,04HOSI2,3/14/2004,2004,255.76,250.5,104.9,65.07,225.19,14,11,2,Y,Maluk,Artificial,Hosima,Parent,7,2003,1,N,2,Transfered to LAZoo; Hand Hatch and Euthanized Due to Neurological Problems,341,84,55,0.0023,0.0525,0.0908
+156,04KOYO2,3/20/2004,2004,259.83,259.1,102.46,66.96,232.91,10,12,2,Y,Inja,Artificial,Koyo,Artificial,7,2003,1,N,0,Given to Teneya/Preghawish After Pip,343,76,104,0.0525,-0.0375,0.0704
+157,04SIXU1,3/20/2004,2004,297.05,299.28,101.85,72.18,269.03,13,7,1,Y,Pawoco,Artificial,Sixut,Artificial,1,2003,0,N,0,Manual Pip; Manual Hatch ,347,166,60,-0.0083,0.0525,0.0417
+158,04KITS2,3/21/2004,2004,309.53,311.01,112.7,69.95,279.58,13,13,2,Y,Moko,Artificial,Kitsuk,Artificial,11,2003,1,N,1,Transfered to LAZoo;Hatched and Survived,344,69,58,-0.0226,0.0161,-0.0364
+159,04PIRU2,3/22/2004,2004,292.42,298.19,108.52,69.8,268.06,14,20,2,Y,Tumusai,Artificial,Piru,Artificial,11,2003,1,N,4,,346,34,53,0,0.0161,-0.0339
+160,04TENE1,3/23/2004,2004,226.04,225.46,101.07,62.89,202.67,13,13,1,N,Preghawish,Artificial,Teneiya,Artificial,3,2003,1,N,1,Infertile,NA,70,61,-0.0226,0.0525,0.0202
+161,04HONS2,3/25/2004,2004,149.46,145.81,81.94,56.17,131.07,10,14,2,N,Antop,Artificial,Honsi,Artificial,4,2003,1,N,4,Runt Egg; Infertile,NA,57,99,0.0549,0.0525,0.1113
+162,04TECU2,3/25/2004,2004,251.99,250.41,102.64,65.77,225.1,11,21,2,Y,Alishaw,Artificial,Tecuya,Artificial,1,2003,2,Y,7,Returned to Parents on Day 53,348,30,90,0,-0.0083,0.0062
+163,04JALA1,3/27/2004,2004,276.83,275.79,107.64,67.4,247.91,15,12,1,Y,Shasta,Artificial,Jalama,Artificial,1,2003,1,N,0,Given to Sixut/Pawoco After Pip,349,80,47,-0.0508,-0.0316,-0.0179
+164,04TOWA2,4/2/2004,2004,277.6,282.82,117.06,65.45,254.24,13,15,2,N,Susil,Artificial,Towasinah,Artificial,4,2003,2,Y,5,Infertile,NA,49,67,-0.0508,-0.0316,-0.0179
+165,04KSEN2,4/4/2004,2004,283.62,286.03,111.64,67.4,257.13,11,11,2,Y,Xopoy,Artificial,Ksen,Artificial,7,2003,1,N,0,Given to Jalama/Shasta Day 53,352,94,92,-0.0226,0.0161,-0.0364
+166,04LIKU2,4/5/2004,2004,263.75,260.73,103.66,66.78,234.38,11,11,2,N,Wishtoyo,Artificial,Likuyi,Artificial,7,2003,1,N,2,Infertile,NA,96,83,-0.0591,0.0023,0.036
+167,04SULK2,4/12/2004,2004,290.45,288.98,108.72,68.65,259.78,11,11,2,Y,Kuhu,Artificial,Sulkuw,Artificial,7,2003,2,Y,1,Natural Hatch,353,93,91,-0.0508,-0.0083,-0.0052
+168,04CHUH2,4/17/2004,2004,285.74,290.6,109.33,68.65,261.23,13,14,2,Y,O-Tum,Artificial,Chuhlna,Artificial,10,2003,2,Y,3,Natural Hatch,354,51,62,-0.0508,0.0549,-0.0077
+169,05HUYA1,2/3/2005,2005,293.33,295.61,112.95,68.12,265.73,15,12,1,Y,Oneia,Artificial,Huya,Artificial,5,2004,1,N,0,Hand Hatch;Rotational Malposition.,358,88,50,0.0549,-0.0508,-0.0077
+170,05HOSI1,2/5/2005,2005,271.58,267.03,103.73,67.56,240.04,15,12,1,Y,Maluk,Artificial,Hosima,Parent,8,2004,2,Y,3,Manual Pip;Chick Pipped on Day 53; Natural Hatch.,360,84,55,0.0023,0.0525,0.0908
+171,05KOYO1,2/18/2005,2005,278.45,278.48,103.5,69.07,250.34,11,13,1,Y,Inja,Artificial,Koyo,Artificial,8,2004,2,Y,1,Natural Hatch.,365,76,104,0.0525,-0.0375,0.0704
+173,05PIRU1,2/18/2005,2005,301.99,307.23,104.79,72.1,276.18,15,21,1,Y,Tumusai,Artificial,Piru,Artificial,12,2004,2,Y,5,Natural Hatch.,364,34,53,0,0.0161,-0.0339
+172,05LIKU1,2/18/2005,2005,NA,NA,NA,NA,NA,12,12,1,NA,Wishtoyo,Artificial,Likuyi,Artificial,8,2004,2,Y,3,Broken in Nest;Possibly while being laid;Poor Shell Quality.,NA,96,83,-0.0591,0.0023,0.036
+174,05TECU1,2/20/2005,2005,256.73,258.77,101.33,67.29,232.62,12,22,1,Y,Alishaw,Artificial,Tecuya,Artificial,2,2004,2,Y,8,Hand Hatch;Rotational Malposition;Head Under Left Wing.,366,30,90,0,-0.0083,0.0062
+175,05HONS1,2/22/2005,2005,275.21,271.69,105.57,67.55,244.23,11,15,1,Y,Antop,Artificial,Honsi,Artificial,5,2004,2,Y,5,Air Cell in Small End;Pipped in the Air Cell;Hand Hatch.,368,57,99,0.0549,0.0525,0.1113
+176,05TOWA1,2/22/2005,2005,291.68,293.24,111.98,68.14,263.6,14,16,1,N,Susil,Artificial,Towasinah,Artificial,5,2004,2,Y,6,Infertile.,NA,49,67,-0.0508,-0.0316,-0.0179
+177,05KARE1,2/23/2005,2005,284.14,282.3,105.56,68.86,253.77,13,15,1,Y,Tapu,Parent,Kareya,Artificial,11,2004,1,N,0,Died Day 52.,NA,56,71,0.0525,-0.0316,0.05
+178,05KSEN1,2/24/2005,2005,317.3,313.92,114.34,69.77,282.19,12,12,1,Y,Xopoy,Artificial,Ksen,Artificial,8,2004,2,Y,1,Given to Kareya/Tapu on Day 51.,369,94,92,-0.0226,0.0161,-0.0364
+179,05TAKI1,3/1/2005,2005,266.59,269.03,111.66,65.36,241.84,22,9,1,Y,Cuyama,Parent,Takihin,Parent,2,2004,0,N,0,Given to Jalama/Shasta 7 Hours After Pip.,371,139,27,-0.03,0,0.0364
+180,05HAKU1,3/3/2005,2005,317.83,320.07,110.73,71.59,287.73,12,13,1,Y,Siwon,Artificial,Haku,Artificial,8,2004,1,N,0,Manual Pip;Chick Pipped on Day 54;Head Over Right Wing;Hand Hatch.,372,77,85,0.0525,-0.0375,0.0704
+181,05JALA1,3/10/2005,2005,269.18,267.68,106.65,66.71,240.63,16,13,1,N,Shasta,Artificial,Jalama,Artificial,2,2004,1,N,0,Infertile.,NA,80,47,-0.0508,-0.0316,-0.0179
+182,05CHUH1,3/11/2005,2005,303.88,300.27,109.62,69.69,269.92,14,15,1,Y,O-Tum,Artificial,Chuhlna,Artificial,11,2004,2,Y,3,"Manual Pip;Malposition,Head Between Legs;Very Edemic.",378,51,62,-0.0508,0.0549,-0.0077
+183,05HOSI2,3/12/2005,2005,261.64,255.53,102.73,66.41,229.71,15,12,2,Y,Maluk,Artificial,Hosima,Parent,8,2004,2,Y,3,"Manual Pip;Died Day 56, 7 May.",NA,84,55,0.0023,0.0525,0.0908
+184,05HUYA2,3/13/2005,2005,282.68,282.17,111.12,67.1,253.66,15,12,2,Y,Oneia,Artificial,Huya,Artificial,5,2004,1,N,0,Manual Pip;Head Over Right Wing;Edemic;Hand Hatch.,380,88,50,0.0549,-0.0508,-0.0077
+185,05SIXU1,3/15/2005,2005,313.38,318.26,107.18,72.56,286.1,14,8,1,Y,Pawoco,Artificial,Sixut,Artificial,2,2004,1,N,0,Manual Pip;Chick Pipped on Day 55;Given to Parents After Chick Pipped.,382,166,60,-0.0083,0.0525,0.0417
+186,05LIKU2,3/16/2005,2005,259.57,261.35,105.07,66.41,234.94,12,12,2,Y,Wishtoyo,Artificial,Likuyi,Artificial,8,2004,2,Y,3,Manual Pip Day 54;Natural Hatch,381,96,83,-0.0591,0.0023,0.036
+187,05SULK1,3/16/2005,2005,282.97,286.36,108.84,68.3,257.42,12,12,1,Y,Kuhu,Artificial,Sulkuw,Artificial,8,2004,2,Y,2,Early Term Death,NA,93,91,-0.0508,-0.0083,-0.0052
+188,05HOY1,3/17/2005,2005,280.37,276.99,102.41,69.25,248.99,16,12,1,Y,Kaduku,Parent,Hoy,Artificial,4,2004,1,N,0,Given to Hosima/Maluk 3 Hours After Pip,383,97,48,0.004,0.0525,0.0708
+189,05KITS1,3/19/2005,2005,308.21,283.85,103.24,69.82,255.16,14,14,1,Y,Moko,Artificial,Kitsuk,Artificial,12,2004,2,Y,1,"Manual Pip,Chick Pipped Day 56;Natural Hatch;Given to Tecuya/Alishaw on Day 56",384,69,58,-0.0226,0.0161,-0.0364
+190,05TECU2,3/22/2005,2005,245.77,243.33,103.48,64.57,218.74,12,22,2,Y,Alishaw,Artificial,Tecuya,Artificial,2,2004,2,Y,8,Rotational Malposition;Did Not Pip in Aircell; Given to Piru/Tumasai ,385,30,90,0,-0.0083,0.0062
+191,05PIRU2,3/23/2005,2005,105.87,102.74,70.34,50.89,92.36,15,21,2,N,Tumusai,Artificial,Piru,Artificial,12,2004,2,Y,5,Runt Egg; Infertile,NA,34,53,0,0.0161,-0.0339
+192,05TOWA2,3/25/2005,2005,270.4,273.31,112.13,65.74,245.69,14,16,2,N,Susil,Artificial,Towasinah,Artificial,5,2004,2,Y,6,Infertile.,NA,49,67,-0.0508,-0.0316,-0.0179
+193,05KOYO2,3/27/2005,2005,259.4,261.33,104.4,66.62,234.92,11,13,2,Y,Inja,Artificial,Koyo,Artificial,8,2004,2,Y,1,Given to Huya/Oneia After Internal Pip,387,76,104,0.0525,-0.0375,0.0704
+194,05KSEN2,3/27/2005,2005,296.3,290.52,112.72,67.6,261.16,12,12,2,Y,Xopoy,Artificial,Ksen,Artificial,8,2004,2,Y,1,Aircell in Small End;Hatched by Adults;♂Aggressive to Chick;Pulled to Puppet Rear,388,94,92,-0.0226,0.0161,-0.0364
+195,05HAKU2,4/8/2005,2005,301.19,304.78,106.33,71.29,273.98,12,13,2,Y,Siwon,Artificial,Haku,Artificial,8,2004,1,N,0,"ManualPip,ChickPipped≤Day55;NaturalHatch;GivenTeneiya/Preghawish onDay 56;Hand Hatched",391,77,85,0.0525,-0.0375,0.0704
+196,05HOY2,4/15/2005,2005,286.67,285,102.89,70.08,256.19,16,12,2,Y,Kaduku,Parent,Hoy,Artificial,4,2004,1,N,0,Given to Sulkuw/Kuhu 3 Hours After Pip,393,97,48,0.004,0.0525,0.0708
+197,06HOSI1,2/13/2006,2006,267.96,263.85,101.5,67.89,237.18,16,13,1,Y,Maluk,Artificial,Hosima,Parent,9,2005,2,Y,4,Returned to Parents 6 Apr (Day 52),399,84,55,0.0023,0.0525,0.0908
+198,06SIXU1,2/13/2006,2006,305.35,309.65,102.38,73.23,278.36,15,9,1,Y,Pawoco,Artificial,Sixut,Artificial,3,2005,1,N,0,Returned to Parents 6 Apr (Day 52),398,166,60,-0.0083,0.0525,0.0417
+199,06HUYA1,2/14/2006,2006,297.96,296.54,109.64,69.25,266.57,16,13,1,Y,Oneia,Artificial,Huya,Artificial,6,2005,2,Y,1,Returned to Parents 8 Apr (Day 53) Raised by female from day 17,400,88,50,0.0549,-0.0508,-0.0077
+200,06KARE1,2/15/2006,2006,288.78,283.53,107.64,68.34,254.88,14,16,1,Y,Tapu,Parent,Kareya,Artificial,12,2005,1,N,0,Returned to Parents on 8 Apr (Day 52),401,56,71,0.0525,-0.0316,0.05
+201,06HONS1,2/16/2006,2006,277.02,280.61,104.14,69.12,252.25,12,16,1,Y,Antop,Artificial,Honsi,Artificial,6,2005,1,N,5,Given to Koyo/94-05 on 3 Apr (Day 46),402,57,99,0.0549,0.0525,0.1113
+202,06KOYO1,2/19/2006,2006,280.2,286.77,105.54,69.41,257.79,12,14,1,Y,Inja,Artificial,Koyo,Artificial,9,2005,2,Y,2,Transfered to SDWAP 30 Mar,403,76,104,0.0525,-0.0375,0.0704
+203,06TAKI1,2/20/2006,2006,272.45,275.52,108.21,67.19,247.68,23,10,1,Y,Cuyama,Parent,Takihin,Parent,3,2005,1,N,0,Given to Likuyi/Wishtoyo on 3 Apr (Day 46),405,139,27,-0.03,0,0.0364
+204,06LIKU1,2/22/2006,2006,287.32,287.35,106.12,69.29,258.31,13,13,1,Y,Wishtoyo,Artificial,Likuyi,Artificial,9,2005,2,Y,4,Transfered to SDWAP 30 Mar,406,96,83,-0.0591,0.0023,0.036
+205,06PIRU1,2/28/2006,2006,295.5,301.54,107.63,70.48,271.06,16,22,1,Y,Tumusai,Artificial,Piru,Artificial,13,2005,2,Y,6,Returned to Parents on 20 Apr (Day51),410,34,53,0,0.0161,-0.0339
+206,06PAGE1,3/1/2006,2006,214.12,218.88,95.73,63.67,196.75,13,6,1,Y,Alishaw,Artificial,Page,Artificial,1,2005,NA,N,0,Returned to Parents on 14 Apr (Day44),411,224,90,0.0046,-0.0083,0.0317
+207,06HAKU1,3/8/2006,2006,290.93,290.49,108.15,69.01,261.13,13,14,1,Y,Siwon,Artificial,Haku,Artificial,9,2005,2,Y,1,Returned to Parents on 19 Apr (Day41);Most likly pipped the day first obs.; Hand hatched. Raised by female from day 19,415,77,85,0.0525,-0.0375,0.0704
+208,06TECU1,3/10/2006,2006,261.58,263.16,105.51,66.5,236.56,15,23,1,Y,Susil,Artificial,Tecuya,Artificial,1,2005,2,Y,9,"Returned to Parents on 23 Apr (Day 44), ",416,30,67,0,-0.0316,0.0046
+209,06KSEN1,3/16/2006,2006,326.62,319.25,113.5,70.62,286.99,13,13,1,Y,Xopoy,Artificial,Ksen,Artificial,9,2005,2,Y,2,Returned to parents 28 Apr (Day 44),419,94,92,-0.0226,0.0161,-0.0364
+210,06HOY1,4/1/2006,2006,277.92,276.95,102.22,69.31,248.96,17,13,1,Y,Kaduku,Parent,Hoy,Artificial,5,2005,2,Y,1,Returned to Adults on 19 May (Day 48),424,97,48,0.004,0.0525,0.0708
+212,07TOWA1,2/9/2007,2007,272.45,271.29,110.56,65.96,243.88,14,18,1,N,Kuhu,Artificial,Towasinah,Artificial,1,2006,NA,N,6,Infertile,NA,49,91,-0.0508,-0.0083,-0.0052
+211,07SIXU1,2/9/2007,2007,312.75,315.17,104.95,72.97,283.32,16,10,1,Y,Pawoco,Artificial,Sixut,Artificial,4,2006,1,N,0,Early term death,NA,166,60,-0.0083,0.0525,0.0417
+213,07HOSI1,2/12/2007,2007,263.16,259.28,101.53,67.29,233.08,17,14,1,Y,Maluk,Artificial,Hosima,Parent,10,2006,1,N,4,Given to Sixut on day 51 (4 Apr) Chamber 1   Died Late Term (>51 Days),NA,84,55,0.0023,0.0525,0.0908
+214,07KSEN1,2/14/2007,2007,307.66,295.57,113.07,68.08,265.7,14,14,1,Y,Xopoy,Artificial,Ksen,Artificial,10,2006,1,N,2,Returned to parents on day 51 (06 Apr) Chamber 13,432,94,92,-0.0226,0.0161,-0.0364
+215,07PIRU1,2/16/2007,2007,305.65,311.98,107.69,71.67,280.45,17,23,1,Y,Tumusai,Artificial,Piru,Artificial,14,2006,1,N,6,Given to Hosima on day 49 (06 Apr) Chamber 16,433,34,53,0,0.0161,-0.0339
+216,07HONS1,2/17/2007,2007,273.05,273.42,104.72,68.04,245.79,17,17,1,Y,Oneia,Artificial,Honsi,Artificial,1,2006,1,N,5,Early term death,NA,57,50,0.0549,-0.0508,-0.0077
+217,07KARE1,2/18/2007,2007,285.92,281.6,109.42,67.55,253.14,15,17,1,Y,Tapu,Parent,Kareya,Artificial,13,2006,1,N,0,"Given to Piru on day 50 (09 Apr) Chamber 6, taken due to aggression between parents, died Oct 16 2007 of crash",434,56,71,0.0525,-0.0316,0.05
+218,07KOYO1,2/25/2007,2007,270.33,276.09,102.85,68.99,248.19,13,15,1,Y,Inja,Artificial,Koyo,Artificial,10,2006,1,N,2,Given to Kareya on day 50 (16 Apr),438,76,104,0.0525,-0.0375,0.0704
+219,07LIKU1,2/26/2007,2007,278.68,289.5,108.22,68.87,260.24,14,14,1,Y,Wishtoyo,Artificial,Likuyi,Artificial,10,2006,1,N,4,Returned to parents on day 50 (17 Apr) Chamber 17,439,96,83,-0.0591,0.0023,0.036
+220,07HOY1,2/28/2007,2007,276.98,271.11,95.84,70.82,243.71,18,14,1,Y,Kaduku,Parent,Hoy,Artificial,6,2006,1,N,1,Returned to parents on day 48 (17Apr),440,97,48,0.004,0.0525,0.0708
+221,07TAKI1,3/3/2007,2007,286.83,292.87,111.84,68.14,263.27,24,11,1,Y,Cuyama,Parent,Takihin,Parent,4,2006,1,N,0,"Given to Koyo on day 48 (20 Apr), in on day 55, fresh pip, given to Sulkuw on day 56(28 Apr)",442,139,27,-0.03,0,0.0364
+223,07SULK1,3/8/2007,2007,279.78,277.19,109.32,67.05,249.18,16,14,1,Y,O-Tum,Artificial,Sulkuw,Artificial,1,2006,NA,N,2, Koyo on day 51(28 Apr); Pulled and hand pipped on Day 56; died on day 58(05 May),NA,93,62,-0.0508,0.0549,-0.0077
+222,07ROTC1,3/8/2007,2007,272.3,272.55,106,67.52,245.01,14,16,1,N,Alishaw,Artificial,Rotciwi,Artificial,1,2006,NA,N,1,Infertile,NA,59,90,0.0161,-0.0083,0.0524
+224,07CHUH1,3/12/2007,2007,300.96,293.61,108.87,69.15,263.94,18,17,1,Y,Shasta,Artificial,Chuhlna,Artificial,2,2006,0,N,3,`Given to Tecuya on day 53 (04 May),448,51,47,-0.0508,-0.0316,-0.0179
+225,07TECU1,3/20/2007,2007,243.5,244.96,106.27,63.93,220.21,16,24,1,Y,Susil,Artificial,Tecuya,Artificial,2,2006,1,N,9,Given to Haku on day 52; (11May),451,30,67,0,-0.0316,0.0046
+226,07HAKU1,3/24/2007,2007,313.05,318.19,109.74,71.7,286.03,14,15,1,Y,Siwon,Artificial,Haku,Artificial,10,2006,1,N,1,Given to Teneiya on day 53(16 May),452,77,85,0.0525,-0.0375,0.0704
+227,07HUYA1,4/10/2007,2007,288.94,296.48,115.41,67.49,266.52,13,14,1,Y,Antop,Artificial,Huya,Artificial,1,2006,1,N,1,"Returned to parents on day 52(01 Jun), egg pipped early that morning",458,88,99,0.0549,0.0525,0.1113
+228,08HOSI1,1/28/2008,2008,263.94,263.09,99.56,68.45,236.5,18,15,1,Y,Maluk,Artificial,Hosima,Parent,11,2007,1,N,4,Raised by 76/104,460,84,55,0.0023,0.0525,0.0908
+229,08KOYO1,2/1/2008,2008,268.96,275.53,104.57,68.35,247.68,14,16,1,Y,Inja,Artificial,Koyo,Artificial,11,2007,1,N,2,Raised by 166/60,461,76,104,0.0525,-0.0375,0.0704
+230,08SIXU1,2/6/2008,2008,311.53,306.51,99.89,73.76,275.53,17,11,1,Y,Pawoco,Artificial,Sixut,Artificial,5,2007,1,N,0,Raised by 94/92,463,166,60,-0.0083,0.0525,0.0417
+231,08PIRU1,2/7/2008,2008,288.9,294.79,104.36,70.77,265,18,24,1,Y,Tumusai,Artificial,Piru,Artificial,15,2007,1,N,6,Raised by 96/83,464,34,53,0,0.0161,-0.0339
+233,08TAKI1,2/9/2008,2008,289.55,297.72,113.16,68.3,267.63,25,12,1,Y,Cuyama,Parent,Takihin,Parent,5,2007,1,N,0,Died day 57,NA,139,27,-0.03,0,0.0364
+232,08KSEN1,2/9/2008,2008,315.79,309.4,113.67,69.47,278.13,15,15,1,Y,Xopoy,Artificial,Ksen,Artificial,11,2007,1,N,2,Raised by 34/53,465,94,92,-0.0226,0.0161,-0.0364
+234,08HONS1,2/11/2008,2008,NA,271.54,104,68.04,244.1,18,18,1,Y,Oneia,Artificial,Honsi,Artificial,2,2007,1,N,5,"Egg came in fertile, dead, cracked and rotten",NA,57,50,0.0549,-0.0508,-0.0077
+235,08LIKU1,2/12/2008,2008,279.76,283.7,104.08,69.52,255.03,15,15,1,Y,Wishtoyo,Artificial,Likuyi,Artificial,11,2007,1,N,4,Raised by 59/90,466,96,83,-0.0591,0.0023,0.036
+236,08ROTC1,2/17/2008,2008,279.79,286.31,105.49,69.37,257.37,15,17,1,N,Alishaw,Artificial,Rotciwi,Artificial,2,2007,1,N,1,Infertile,NA,59,90,0.0161,-0.0083,0.0524
+237,08HOY1,2/20/2008,2008,288.5,285.27,97.76,71.93,256.44,19,15,1,Y,Kaduku,Parent,Hoy,Artificial,7,2007,1,N,1,Raised by 97/48,471,97,48,0.004,0.0525,0.0708
+238,08TECU1,2/22/2008,2008,256.16,262.5,103.99,66.9,235.97,17,25,1,Y,Susil,Artificial,Tecuya,Artificial,3,2007,1,N,9,Raised by 30/67,473,30,67,0,-0.0316,0.0046
+239,08TOWA1,2/23/2008,2008,293.77,292.97,113.94,67.52,263.36,15,19,1,N,Kuhu,Artificial,Towasinah,Artificial,2,2007,1,N,6,Infertile,NA,49,91,-0.0508,-0.0083,-0.0052
+240,08HUYA1,2/24/2008,2008,284.83,283.14,111.27,67.17,254.53,14,15,1,Y,Antop,Artificial,Huya,Artificial,2,2007,1,N,1,Transferred to LAZoo 16 Apr,474,88,99,0.0549,0.0525,0.1113
+241,08KARE1,2/24/2008,2008,291.81,287.84,108.86,68.47,258.75,16,18,1,Y,Tapu,Parent,Kareya,Artificial,14,2007,1,N,0,Transferred to LAZoo 16 Apr,475,56,71,0.0525,-0.0316,0.05
+242,08SULK1,2/25/2008,2008,301.45,299.25,104.43,71.28,269.01,17,15,1,N,O-Tum,Artificial,Sulkuw,Artificial,2,2007,1,N,2,Infertile,NA,93,62,-0.0508,0.0549,-0.0077
+243,08CHUH1,2/28/2008,2008,293.58,288.63,106.07,69.46,259.46,19,18,1,Y,Shasta,Artificial,Chuhlna,Artificial,3,2007,1,N,3,Raised by 51/47,478,51,47,-0.0508,-0.0316,-0.0179
+244,08TENE1,3/2/2008,2008,237.94,244.03,102.44,64.99,219.37,17,17,1,NA,Preghawish,Artificial,Teneiya,Artificial,7,2007,0,N,1,Broken by adults,NA,70,61,-0.0226,0.0525,0.0202
+245,08HAKU1,3/6/2008,2008,296.69,299.29,107.1,70.39,269.04,15,16,1,Y,Siwon,Artificial,Haku,Artificial,11,2007,1,N,1,Raised by 93/62,485,77,85,0.0525,-0.0375,0.0704
+246,08HONS2,3/24/2008,2008,257.92,256.64,99.93,67.48,230.7,18,18,2,Y,Oneia,Artificial,Honsi,Artificial,2,2007,1,N,5,Raised by 57/50,490,57,50,0.0549,-0.0508,-0.0077
+247,09SIXU1,1/29/2009,2009,306.4,301.75,99.85,73.2,271.26,18,12,1,Y,Pawoco,Artificial,Sixut,Artificial,6,2008,1,N,0,,499,166,60,-0.0083,0.0525,0.0417
+248,09TAKI1,2/5/2009,2009,299.3,298.62,112.64,68.56,268.44,26,13,1,Y,Cuyama,Parent,Takihin,Parent,6,2008,1,N,0,,501,139,27,-0.03,0,0.0364
+249,09KSEN1,2/9/2009,2009,301.7,257.31,112.68,63.63,231.3,16,16,1,Y,Xopoy,Artificial,Ksen,Artificial,12,2008,1,N,2,,505,94,92,-0.0226,0.0161,-0.0364
+250,09HUYA1,2/13/2009,2009,290.5,291.72,107.92,69.23,262.24,15,16,1,Y,Antop,Artificial,Huya,Artificial,3,2008,1,N,1,,507,88,99,0.0549,0.0525,0.1113
+252,09TECU1,2/15/2009,2009,255.8,260.47,101.27,67.53,234.14,18,26,1,Y,Susil,Artificial,Tecuya,Artificial,4,2008,1,N,9,,508,30,67,0,-0.0316,0.0046
+251,09HONS1,2/15/2009,2009,256.6,264.52,102.33,67.7,237.79,19,19,1,Y,Oneia,Artificial,Honsi,Artificial,3,2008,2,Y,6,,NA,57,50,0.0549,-0.0508,-0.0077
+254,09LIKU1,2/19/2009,2009,272.4,272.29,102.83,68.52,244.77,16,16,1,Y,Wishtoyo,Artificial,Likuyi,Artificial,12,2008,1,N,4,,512,96,83,-0.0591,0.0023,0.036
+253,09KARE1,2/19/2009,2009,297.7,295.33,109.35,69.2,265.48,17,19,1,Y,Tapu,Parent,Kareya,Artificial,15,2008,1,N,0,,513,56,71,0.0525,-0.0316,0.05
+256,09KOYO1,2/22/2009,2009,276.8,284.88,106.03,69.02,256.09,15,17,1,Y,Inja,Artificial,Koyo,Artificial,12,2008,1,N,2,,NA,76,104,0.0525,-0.0375,0.0704
+255,09HOY1,2/22/2009,2009,295.1,291.17,100.17,71.79,261.74,20,16,1,Y,Kaduku,Parent,Hoy,Artificial,8,2008,1,N,1,,NA,97,48,0.004,0.0525,0.0708
+257,09CHUH1,2/27/2009,2009,279.6,264.32,100.7,68.22,237.61,20,19,1,Y,Shasta,Artificial,Chuhlna,Artificial,4,2008,1,N,3,,518,51,47,-0.0508,-0.0316,-0.0179
+258,09SULK1,3/5/2009,2009,310.4,222.93,104.88,61.39,200.4,18,16,1,Y,O-Tum,Artificial,Sulkuw,Artificial,3,2008,1,N,2,,NA,93,62,-0.0508,0.0549,-0.0077
+259,09TOWA1,3/6/2009,2009,299.8,201.58,107.8,57.58,181.2,16,20,1,Y,Kuhu,Artificial,Towasinah,Artificial,3,2008,1,N,6,,523,49,91,-0.0508,-0.0083,-0.0052
+260,09HAKU1,3/10/2009,2009,301.6,296.89,105.79,70.54,266.88,16,17,1,Y,Siwon,Artificial,Haku,Artificial,12,2008,1,N,1,,NA,77,85,0.0525,-0.0375,0.0704
+261,09HOSI1,3/14/2009,2009,272.9,267.77,99.52,69.07,240.71,13,16,1,Y,Meymey,Artificial,Hosima,Parent,1,2008,1,N,4,,NA,84,138,0.0023,-0.03,-0.0259
+262,09TAKI2,3/19/2009,2009,296.5,308.57,113.43,69.45,277.38,26,13,2,Y,Cuyama,Parent,Takihin,Parent,6,2008,1,N,0,,532,139,27,-0.03,0,0.0364
+263,09SIXU2,3/24/2009,2009,299.3,NA,NA,NA,NA,18,12,2,Y,Pawoco,Artificial,Sixut,Artificial,6,2008,1,N,0,,NA,166,60,-0.0083,0.0525,0.0417
+264,09PIRU1,3/28/2009,2009,281.1,NA,NA,NA,NA,19,25,1,Y,Tumusai,Artificial,Piru,Artificial,16,2008,1,N,6,,536,34,53,0,0.0161,-0.0339
+265,09TECU2,3/31/2009,2009,256.6,255.32,102.83,66.35,229.51,18,26,2,Y,Susil,Artificial,Tecuya,Artificial,4,2008,1,N,9,,540,30,67,0,-0.0316,0.0046
+513,09HONS2,3/31/2009,2009,NA,NA,NA,NA,NA,19,19,2,Y,Oneia,Artificial,Honsi,Artificial,3,2008,2,Y,6,,541,57,50,0.0549,-0.0508,-0.0077
+266,09KARE2,4/1/2009,2009,293,286.94,111.53,67.54,257.94,17,19,2,Y,Tapu,Parent,Kareya,Artificial,15,2008,1,N,0,,542,56,71,0.0525,-0.0316,0.05
+267,09LIKU2,4/3/2009,2009,253.8,269.77,103.9,67.85,242.51,16,16,2,Y,Wishtoyo,Artificial,Likuyi,Artificial,12,2008,1,N,4,,544,96,83,-0.0591,0.0023,0.036
+514,09KSEN2,4/4/2009,2009,NA,NA,NA,NA,NA,16,16,2,Y,Xopoy,Artificial,Ksen,Artificial,12,2008,1,N,2,,543,94,92,-0.0226,0.0161,-0.0364
+268,10SIXU1,1/31/2010,2010,301,299.22,106.5,70.58,268.98,19,13,1,Y,Pawoco,Artificial,Sixut,Artificial,7,2009,2,Y,1,,553,166,60,-0.0083,0.0525,0.0417
+269,10HOSI1,2/16/2010,2010,275,270.87,103.5,68.12,243.5,14,17,1,Y,Meymey,Artificial,Hosima,Parent,2,2009,1,N,4,,559,84,138,0.0023,-0.03,-0.0259
+270,10KOYO1,2/20/2010,2010,275.1,284.78,106.64,68.81,255.99,16,18,1,Y,Inja,Artificial,Koyo,Artificial,13,2009,1,N,2,,564,76,104,0.0525,-0.0375,0.0704
+271,10PIRU1,2/28/2010,2010,290.7,297.1,105.03,70.82,267.07,20,26,1,Y,Tumusai,Artificial,Piru,Artificial,17,2009,1,N,6,,567,34,53,0,0.0161,-0.0339
+272,10HOY1,3/4/2010,2010,279.4,273.6,98.55,70.16,245.95,21,17,1,Y,Kaduku,Parent,Hoy,Artificial,9,2009,1,N,1,,569,97,48,0.004,0.0525,0.0708
+273,10HONS1,3/6/2010,2010,278.2,277.57,103.22,69.05,249.52,20,20,1,Y,Oneia,Artificial,Honsi,Artificial,4,2009,2,Y,7,,570,57,50,0.0549,-0.0508,-0.0077
+274,10CHUH1,3/9/2010,2010,308.1,300.14,107.01,70.52,269.81,21,20,1,Y,Shasta,Artificial,Chuhlna,Artificial,5,2009,1,N,3,,572,51,47,-0.0508,-0.0316,-0.0179
+276,10TECU1,3/15/2010,2010,252.1,255.71,102.37,66.55,229.87,19,27,1,Y,Susil,Artificial,Tecuya,Artificial,5,2009,2,Y,10,,578,30,67,0,-0.0316,0.0046
+275,10TAKI1,3/15/2010,2010,296.2,298.18,117.25,67.15,268.05,27,14,1,Y,Cuyama,Parent,Takihin,Parent,7,2009,2,Y,1,,575,139,27,-0.03,0,0.0364
+278,10KSEN1,3/16/2010,2010,308.4,305.27,113.85,68.95,274.42,17,17,1,Y,Xopoy,Artificial,Ksen,Artificial,13,2009,2,Y,3,,576,94,92,-0.0226,0.0161,-0.0364
+277,10KITS1,3/16/2010,2010,315.5,326.5,110.96,72.23,293.5,7,19,1,Y,George,Artificial,Kitsuk,Artificial,2,2009,0,N,1,,577,69,309,-0.0226,0.0046,-0.01
+280,10TOWA1,3/21/2010,2010,297.2,247.92,116.41,61.45,222.87,17,21,1,Y,Kuhu,Artificial,Towasinah,Artificial,4,2009,1,N,6,,582,49,91,-0.0508,-0.0083,-0.0052
+279,10HUYA1,3/21/2010,2010,290,294.34,114.17,67.61,264.6,16,17,1,Y,Antop,Artificial,Huya,Artificial,4,2009,1,N,1,,583,88,99,0.0549,0.0525,0.1113
+281,10SULK1,3/25/2010,2010,307.3,306.5,107.35,71.15,275.52,19,17,1,Y,O-Tum,Artificial,Sulkuw,Artificial,4,2009,1,N,2,,585,93,62,-0.0508,0.0549,-0.0077
+282,10KARE1,3/26/2010,2010,293.4,291.48,112.56,67.76,262.02,18,20,1,Y,Tapu,Parent,Kareya,Artificial,16,2009,2,Y,1,,584,56,71,0.0525,-0.0316,0.05
+283,10TENE1,3/28/2010,2010,73.7,78.72,66.77,45.72,70.76,19,19,1,N,Preghawish,Artificial,Teneiya,Artificial,9,2009,1,N,1,,NA,70,61,-0.0226,0.0525,0.0202
+284,10HAKU1,3/30/2010,2010,294.9,295.21,105.67,70.38,265.37,17,18,1,Y,Siwon,Artificial,Haku,Artificial,13,2009,1,N,1,,588,77,85,0.0525,-0.0375,0.0704
+285,10LIKU1,4/16/2010,2010,273.3,273.42,105.96,67.64,245.79,17,17,1,Y,Wishtoyo,Artificial,Likuyi,Artificial,13,2009,2,Y,5,,589,96,83,-0.0591,0.0023,0.036
+286,11SIXU1,2/9/2011,2011,304.2,312.84,107,72,281.23,20,14,1,Y,Pawoco,Artificial,Sixut,Artificial,8,2010,1,N,1,,598,166,60,-0.0083,0.0525,0.0417
+287,11HOSI1,2/15/2011,2011,270.1,266.53,101.84,68.12,239.59,15,18,1,Y,Meymey,Artificial,Hosima,Parent,3,2010,1,N,4,,601,84,138,0.0023,-0.03,-0.0259
+288,11TECU1,2/20/2011,2011,249.3,252.29,101.61,66.35,226.79,20,28,1,Y,Susil,Artificial,Tecuya,Artificial,6,2010,1,N,10,,614,30,67,0,-0.0316,0.0046
+290,11TAKI1,2/22/2011,2011,303.5,308.8,115,69,277.59,28,15,1,Y,Cuyama,Parent,Takihin,Parent,8,2010,1,N,1,,604,139,27,-0.03,0,0.0364
+289,11KSEN1,2/22/2011,2011,313.7,315.05,114,70,283.21,18,18,1,Y,Xopoy,Artificial,Ksen,Artificial,14,2010,1,N,3,,NA,94,92,-0.0226,0.0161,-0.0364
+291,11KOYO1,2/25/2011,2011,272.3,277.47,106.02,68.12,249.43,17,19,1,Y,Inja,Artificial,Koyo,Artificial,14,2010,1,N,2,,605,76,104,0.0525,-0.0375,0.0704
+292,11HUYA1,2/26/2011,2011,285.3,292.93,112.29,68.01,263.33,17,18,1,Y,Antop,Artificial,Huya,Artificial,5,2010,1,N,1,,617,88,99,0.0549,0.0525,0.1113
+293,11HONS1,2/27/2011,2011,263.3,267,102.44,67.98,240.02,21,21,1,Y,Oneia,Artificial,Honsi,Artificial,5,2010,1,N,7,,615,57,50,0.0549,-0.0508,-0.0077
+294,11HOY1,3/3/2011,2011,283.7,273.95,99.44,69.89,246.26,22,18,1,Y,Kaduku,Parent,Hoy,Artificial,10,2010,1,N,1,,609,97,48,0.004,0.0525,0.0708
+295,11CHUH1,3/4/2011,2011,306.5,303.96,109.36,70.2,273.24,22,21,1,Y,Shasta,Artificial,Chuhlna,Artificial,6,2010,1,N,3,,621,51,47,-0.0508,-0.0316,-0.0179
+296,11PIRU1,3/5/2011,2011,210.8,213.04,94.9,63.09,191.51,21,27,1,N,Tumusai,Artificial,Piru,Artificial,18,2010,1,N,6,,NA,34,53,0,0.0161,-0.0339
+297,11KARE1,3/7/2011,2011,289.7,290.42,108.47,68.9,261.07,19,21,1,Y,Tapu,Parent,Kareya,Artificial,17,2010,1,N,1,,618,56,71,0.0525,-0.0316,0.05
+298,11LIKU1,3/8/2011,2011,283.7,282.1,105.21,68.95,253.59,18,18,1,Y,Wishtoyo,Artificial,Likuyi,Artificial,14,2010,1,N,5,,619,96,83,-0.0591,0.0023,0.036
+299,11TOWA1,3/14/2011,2011,297.6,300.94,118.51,67.1,270.53,18,22,1,Y,Kuhu,Artificial,Towasinah,Artificial,5,2010,1,N,6,,NA,49,91,-0.0508,-0.0083,-0.0052
+300,11SULK1,3/24/2011,2011,309.2,307.96,109.3,70.68,276.84,20,18,1,Y,O-Tum,Artificial,Sulkuw,Artificial,5,2010,1,N,2,,625,93,62,-0.0508,0.0549,-0.0077
+301,11HAKU1,4/4/2011,2011,309.3,316.04,110.35,71.26,284.1,18,19,1,Y,Siwon,Artificial,Haku,Artificial,14,2010,1,N,1,,626,77,85,0.0525,-0.0375,0.0704
+302,11TENE1,4/8/2011,2011,239.3,244,109,63,219.34,20,20,1,Y,Preghawish,Artificial,Teneiya,Artificial,10,2010,1,N,1,,628,70,61,-0.0226,0.0525,0.0202
+303,11KITS1,4/10/2011,2011,297.9,306.11,114,69,275.18,8,20,1,Y,George,Artificial,Kitsuk,Artificial,3,2010,1,N,1,,629,69,309,-0.0226,0.0046,-0.01
+304,11TECU2,4/14/2011,2011,236.1,243.06,102,65,218.49,20,28,2,Y,Susil,Artificial,Tecuya,Artificial,6,2010,1,N,10,,630,30,67,0,-0.0316,0.0046
+305,12PIRU1,2/13/2012,2012,259.6,271.76,103.93,68.09,244.3,22,28,1,Y,Tumusai,Artificial,Piru,Artificial,19,2011,1,N,6,,NA,34,53,0,0.0161,-0.0339
+306,12SIXU1,2/16/2012,2012,290.1,291.55,105.92,69.86,262.09,21,15,1,Y,Pawoco,Artificial,Sixut,Artificial,9,2011,1,N,1,,644,166,60,-0.0083,0.0525,0.0417
+307,12HOSI1,2/22/2012,2012,265.8,262.09,101.99,67.5,235.6,16,19,1,Y,Meymey,Artificial,Hosima,Parent,4,2011,1,N,4,,645,84,138,0.0023,-0.03,-0.0259
+308,12CHUH1,2/23/2012,2012,302.7,292.23,105.26,70.16,262.69,23,22,1,Y,Shasta,Artificial,Chuhlna,Artificial,7,2011,1,N,3,,NA,51,47,-0.0508,-0.0316,-0.0179
+309,12HONS1,2/24/2012,2012,270.2,269.26,101.27,68.66,242.05,22,22,1,Y,Oneia,Artificial,Honsi,Artificial,6,2011,1,N,7,,NA,57,50,0.0549,-0.0508,-0.0077
+310,12HUYA1,2/25/2012,2012,284.5,290.03,113.2,67.4,260.72,18,19,1,N,Antop,Artificial,Huya,Artificial,6,2011,1,N,1,,NA,88,99,0.0549,0.0525,0.1113
+312,12TAKI1,2/25/2012,2012,295.9,297.14,112.05,68.57,267.11,29,16,1,Y,Cuyama,Parent,Takihin,Parent,9,2011,1,N,1,,648,139,27,-0.03,0,0.0364
+311,12KSEN1,2/25/2012,2012,320.9,315.5,114.85,69.79,283.61,19,19,1,Y,Xopoy,Artificial,Ksen,Artificial,15,2011,1,N,3,,647,94,92,-0.0226,0.0161,-0.0364
+313,12TECU1,2/27/2012,2012,249.1,254.63,104.4,65.76,228.89,21,29,1,Y,Susil,Artificial,Tecuya,Artificial,7,2011,2,Y,11,,649,30,67,0,-0.0316,0.0046
+314,12TENE1,2/29/2012,2012,239.6,241.27,101,65.08,216.88,21,21,1,Y,Preghawish,Artificial,Teneiya,Artificial,11,2011,1,N,1,,654,70,61,-0.0226,0.0525,0.0202
+315,12KOYO1,3/4/2012,2012,273.6,284.27,107.73,68.4,255.54,18,20,1,Y,Inja,Artificial,Koyo,Artificial,15,2011,1,N,2,,651,76,104,0.0525,-0.0375,0.0704
+317,12TOWA1,3/10/2012,2012,296.3,284.18,116.2,65.85,255.46,19,23,1,Y,Kuhu,Artificial,Towasinah,Artificial,6,2011,1,N,6,,657,49,91,-0.0508,-0.0083,-0.0052
+316,12HOY1,3/10/2012,2012,288.3,275.74,99.69,70.03,247.87,23,19,1,Y,Kaduku,Parent,Hoy,Artificial,11,2011,1,N,1,,NA,97,48,0.004,0.0525,0.0708
+318,12LIKU1,3/11/2012,2012,263.9,268.79,104.97,67.38,241.62,19,19,1,Y,Wishtoyo,Artificial,Likuyi,Artificial,15,2011,1,N,5,,656,96,83,-0.0591,0.0023,0.036
+319,12KITS1,3/15/2012,2012,302.5,305.37,111.93,69.55,274.5,9,21,1,Y,George,Artificial,Kitsuk,Artificial,4,2011,1,N,1,,661,69,309,-0.0226,0.0046,-0.01
+320,12HAKU1,3/19/2012,2012,317.5,316.75,108.88,71.82,284.74,19,20,1,Y,Siwon,Artificial,Haku,Artificial,15,2011,1,N,1,,662,77,85,0.0525,-0.0375,0.0704
+321,12SULK1,3/22/2012,2012,313.4,307.13,106.82,71.4,276.09,21,19,1,Y,O-Tum,Artificial,Sulkuw,Artificial,6,2011,1,N,2,,665,93,62,-0.0508,0.0549,-0.0077
+322,12TECU2,3/30/2012,2012,240.5,238.79,101.99,64.43,214.66,21,29,2,Y,Susil,Artificial,Tecuya,Artificial,7,2011,2,Y,11,,666,30,67,0,-0.0316,0.0046
+323,12CHUH2,3/31/2012,2012,284,284.79,111.85,67.19,256.01,23,22,2,Y,Shasta,Artificial,Chuhlna,Artificial,7,2011,1,N,3,,668,51,47,-0.0508,-0.0316,-0.0179
+324,12TAKI2,3/31/2012,2012,293.5,293.95,115.14,67.28,264.24,29,16,2,Y,Cuyama,Parent,Takihin,Parent,9,2011,1,N,1,,667,139,27,-0.03,0,0.0364
+325,12HUYA2,4/9/2012,2012,272.9,272.29,109.83,66.3,244.77,18,19,2,Y,Antop,Artificial,Huya,Artificial,6,2011,1,N,1,,669,88,99,0.0549,0.0525,0.1113
+326,12KARE1,4/30/2012,2012,281.2,279.4,114.73,65.71,251.16,20,22,1,Y,Tapu,Parent,Kareya,Artificial,18,2011,1,N,1,,673,56,71,0.0525,-0.0316,0.05
+327,13HOSI1,2/20/2013,2013,269.2,267.2,104.04,67.48,240.19,17,20,1,Y,Meymey,Artificial,Hosima,Parent,5,2012,1,N,4,,686,84,138,0.0023,-0.03,-0.0259
+328,13SIXU1,2/20/2013,2013,310.3,313.03,108.78,71.43,281.4,22,16,1,Y,Pawoco,Artificial,Sixut,Artificial,10,2012,1,N,1,,690,166,60,-0.0083,0.0525,0.0417
+329,13KSEN1,2/25/2013,2013,310.4,308.39,113.66,69.36,277.23,20,20,1,Y,Xopoy,Artificial,Ksen,Artificial,16,2012,1,N,3,,688,94,92,-0.0226,0.0161,-0.0364
+330,13TAKI1,3/4/2013,2013,302.8,304.51,117.28,67.85,273.74,30,17,1,Y,Cuyama,Parent,Takihin,Parent,10,2012,2,Y,2,,696,139,27,-0.03,0,0.0364
+331,13KOYO1,3/5/2013,2013,280.1,285.05,106.68,68.83,256.24,19,21,1,Y,Inja,Artificial,Koyo,Artificial,16,2012,1,N,2,,697,76,104,0.0525,-0.0375,0.0704
+333,13LIKU1,3/7/2013,2013,284.4,287.81,103.55,70.2,258.72,20,20,1,Y,Wishtoyo,Artificial,Likuyi,Artificial,16,2012,1,N,5,,699,96,83,-0.0591,0.0023,0.036
+334,13TENE1,3/7/2013,2013,231.4,NA,NA,NA,NA,22,22,1,Y,Preghawish,Artificial,Teneiya,Artificial,12,2012,1,N,1,,700,70,61,-0.0226,0.0525,0.0202
+332,13HONS1,3/7/2013,2013,271.6,NA,NA,NA,NA,23,23,1,Y,Oneia,Artificial,Honsi,Artificial,7,2012,1,N,7,,698,57,50,0.0549,-0.0508,-0.0077
+336,13KARE1,3/9/2013,2013,297.9,298.54,110.41,69.24,268.37,21,23,1,Y,Tapu,Parent,Kareya,Artificial,19,2012,1,N,1,,701,56,71,0.0525,-0.0316,0.05
+335,13HOY1,3/9/2013,2013,295.4,NA,NA,NA,NA,24,20,1,Y,Kaduku,Parent,Hoy,Artificial,12,2012,1,N,1,,703,97,48,0.004,0.0525,0.0708
+337,13PIRU1,3/12/2013,2013,282.9,286.73,105.86,69.3,257.75,23,29,1,Y,Tumusai,Artificial,Piru,Artificial,20,2012,1,N,6,,704,34,53,0,0.0161,-0.0339
+338,13TOWA1,3/13/2013,2013,294.3,300.63,115.75,67.86,270.24,20,24,1,Y,Kuhu,Artificial,Towasinah,Artificial,7,2012,1,N,6,,708,49,91,-0.0508,-0.0083,-0.0052
+339,13HUYA1,3/15/2013,2013,281.3,281.72,113.67,66.29,253.25,19,20,1,Y,Antop,Artificial,Huya,Artificial,7,2012,2,Y,2,,706,88,99,0.0549,0.0525,0.1113
+340,13KITS1,3/15/2013,2013,296.2,287.69,112.02,67.48,258.61,10,22,1,Y,George,Artificial,Kitsuk,Artificial,5,2012,1,N,1,,705,69,309,-0.0226,0.0046,-0.01
+341,13HAKU1,3/18/2013,2013,317.7,321.22,107.67,72.73,288.76,20,21,1,Y,Siwon,Artificial,Haku,Artificial,16,2012,1,N,1,,707,77,85,0.0525,-0.0375,0.0704
+342,13CHUH1,3/25/2013,2013,292.7,292.36,112.17,67.98,262.81,24,23,1,Y,Shasta,Artificial,Chuhlna,Artificial,8,2012,2,Y,4,,711,51,47,-0.0508,-0.0316,-0.0179
+343,13TAKI2,4/8/2013,2013,285.2,283.22,111.8,67.02,254.6,30,17,2,Y,Cuyama,Parent,Takihin,Parent,10,2012,2,Y,2,,716,139,27,-0.03,0,0.0364
+344,13TECU1,4/9/2013,2013,239.7,241.64,106.12,63.54,217.22,22,30,1,Y,Susil,Artificial,Tecuya,Artificial,8,2012,2,Y,12,,NA,30,67,0,-0.0316,0.0046
+345,13TOWA2,4/15/2013,2013,271.6,273.88,115.86,64.74,246.2,20,24,2,Y,Kuhu,Artificial,Towasinah,Artificial,7,2012,1,N,6,,718,49,91,-0.0508,-0.0083,-0.0052
+346,13SULK1,4/18/2013,2013,302.8,298.65,107.88,70.06,268.47,22,20,1,Y,O-Tum,Artificial,Sulkuw,Artificial,7,2012,1,N,2,,721,93,62,-0.0508,0.0549,-0.0077
+347,14PIRU1,2/16/2014,2014,56.4,58.4,56,43,52.5,24,30,1,Y,Tumusai,Artificial,Piru,Artificial,21,2013,1,N,6,,NA,34,53,0,0.0161,-0.0339
+349,14KITS1,2/18/2014,2014,309.4,303.55,113.87,68.75,272.87,11,23,1,Y,George,Artificial,Kitsuk,Artificial,6,2013,1,N,1,,732,69,309,-0.0226,0.0046,-0.01
+348,14KARE1,2/18/2014,2014,287,331.52,107.72,73.87,298.02,22,24,1,Y,Tapu,Parent,Kareya,Artificial,20,2013,1,N,1,,731,56,71,0.0525,-0.0316,0.05
+350,14KOYO1,2/18/2014,2014,NA,NA,NA,NA,NA,20,22,1,Y,Inja,Artificial,Koyo,Artificial,17,2013,1,N,2,,730,76,104,0.0525,-0.0375,0.0704
+351,14TAKI1,2/21/2014,2014,303.1,303.8,114.26,68.66,273.09,31,18,1,Y,Cuyama,Parent,Takihin,Parent,11,2013,2,Y,3,,735,139,27,-0.03,0,0.0364
+352,14HOSI1,2/22/2014,2014,263,259.79,101.97,67.21,233.53,18,21,1,Y,Meymey,Artificial,Hosima,Parent,6,2013,1,N,4,,740,84,138,0.0023,-0.03,-0.0259
+354,14HUYA1,2/23/2014,2014,287.7,294.33,113.93,67.68,264.59,20,21,1,Y,Antop,Artificial,Huya,Artificial,8,2013,1,N,2,,744,88,99,0.0549,0.0525,0.1113
+353,14HONS1,2/23/2014,2014,265.4,267.41,101.61,68.31,240.39,24,24,1,Y,Oneia,Artificial,Honsi,Artificial,8,2013,1,N,7,,737,57,50,0.0549,-0.0508,-0.0077
+355,14SIXU1,2/23/2014,2014,305.2,309.34,107.86,71.31,278.08,23,17,1,Y,Pawoco,Artificial,Sixut,Artificial,11,2013,1,N,1,,738,166,60,-0.0083,0.0525,0.0417
+357,14KSEN1,2/27/2014,2014,302.3,298.43,110.05,69.34,268.27,21,21,1,Y,Xopoy,Artificial,Ksen,Artificial,17,2013,1,N,3,,750,94,92,-0.0226,0.0161,-0.0364
+356,14HOY1,2/27/2014,2014,NA,NA,NA,NA,NA,25,21,1,Y,Kaduku,Parent,Hoy,Artificial,13,2013,1,N,1,,746,97,48,0.004,0.0525,0.0708
+358,14CHUH1,3/4/2014,2014,294.8,291.26,108.72,68.92,261.82,25,24,1,Y,Shasta,Artificial,Chuhlna,Artificial,9,2013,1,N,4,,748,51,47,-0.0508,-0.0316,-0.0179
+359,14LIKU1,3/7/2014,2014,NA,NA,NA,NA,NA,21,21,1,NA,Wishtoyo,Artificial,Likuyi,Artificial,17,2013,1,N,5,,NA,96,83,-0.0591,0.0023,0.036
+360,14TECU1,3/10/2014,2014,248.1,253.01,103.83,65.73,227.44,23,31,1,Y,Susil,Artificial,Tecuya,Artificial,9,2013,1,N,12,,752,30,67,0,-0.0316,0.0046
+361,14SULK1,3/12/2014,2014,290.1,291.85,107.13,69.5,262.35,23,21,1,Y,O-Tum,Artificial,Sulkuw,Artificial,8,2013,1,N,2,,755,93,62,-0.0508,0.0549,-0.0077
+362,14HAKU1,3/14/2014,2014,312.5,315.52,108.64,71.76,283.64,21,22,1,Y,Siwon,Artificial,Haku,Artificial,17,2013,1,N,1,,NA,77,85,0.0525,-0.0375,0.0704
+363,14PIRU2,3/19/2014,2014,NA,NA,NA,NA,NA,24,30,2,Y,Tumusai,Artificial,Piru,Artificial,21,2013,1,N,6,,756,34,53,0,0.0161,-0.0339
+364,14TOWA1,3/24/2014,2014,288.6,290.09,115.61,66.7,260.77,21,25,1,Y,Kuhu,Artificial,Towasinah,Artificial,8,2013,2,Y,7,,758,49,91,-0.0508,-0.0083,-0.0052
+365,14TAKI2,3/26/2014,2014,287.9,284.18,111.38,67.26,255.46,31,18,2,Y,Cuyama,Parent,Takihin,Parent,11,2013,2,Y,3,,760,139,27,-0.03,0,0.0364
+366,14LIKU2,4/4/2014,2014,270.1,277.76,103.23,69.07,249.69,21,21,2,Y,Wishtoyo,Artificial,Likuyi,Artificial,17,2013,1,N,5,,762,96,83,-0.0591,0.0023,0.036
+367,14TECU2,4/9/2014,2014,235,232.82,102.18,63.56,209.29,23,31,2,Y,Susil,Artificial,Tecuya,Artificial,9,2013,1,N,12,,763,30,67,0,-0.0316,0.0046
+368,14TENE1,4/21/2014,2014,NA,NA,NA,NA,NA,23,23,1,Y,Preghawish,Artificial,Teneiya,Artificial,13,2013,1,N,1,,764,70,61,-0.0226,0.0525,0.0202
+370,15HOSI1,2/16/2015,2015,264.7,267.31,102.5,68,240.3,19,22,1,Y,Meymey,Artificial,Hosima,Parent,7,2014,1,N,4,,787,84,138,0.0023,-0.03,-0.0259
+371,15KARE1,2/16/2015,2015,285.7,280.08,104.7,68.87,251.78,23,25,1,Y,Tapu,Parent,Kareya,Artificial,21,2014,1,N,1,,776,56,71,0.0525,-0.0316,0.05
+369,15HONS1,2/16/2015,2015,274.1,284.65,103,70,255.88,25,25,1,N,Oneia,Artificial,Honsi,Artificial,9,2014,1,N,7,,NA,57,50,0.0549,-0.0508,-0.0077
+372,15CHUH1,2/17/2015,2015,305.3,296.9,106.76,70.22,266.89,26,25,1,Y,Shasta,Artificial,Chuhlna,Artificial,10,2014,1,N,4,,780,51,47,-0.0508,-0.0316,-0.0179
+373,15KSEN1,2/25/2015,2015,314.8,312.58,114.05,69.71,280.99,22,22,1,Y,Xopoy,Artificial,Ksen,Artificial,18,2014,1,N,3,,783,94,92,-0.0226,0.0161,-0.0364
+374,15PIRU1,3/1/2015,2015,278.4,284.22,102.26,70.2,255.5,25,31,1,N,Tumusai,Artificial,Piru,Artificial,22,2014,2,Y,7,,NA,34,53,0,0.0161,-0.0339
+375,15HUYA1,3/2/2015,2015,275.2,280.38,111.14,66.88,252.04,21,22,1,Y,Antop,Artificial,Huya,Artificial,9,2014,1,N,2,,785,88,99,0.0549,0.0525,0.1113
+515,15LIKU1,3/4/2015,2015,NA,NA,NA,NA,NA,22,22,1,NA,Wishtoyo,Artificial,Likuyi,Artificial,18,2014,2,Y,6,,NA,96,83,-0.0591,0.0023,0.036
+376,15SIXU1,3/10/2015,2015,309.2,318.69,109,72,286.48,13,18,1,Y,Yulpok,Artificial,Sixut,Artificial,1,2014,1,N,1,,790,166,282,-0.0083,-0.0077,0.0346
+377,15SULK1,3/12/2015,2015,308.4,307.07,106.5,71.5,276.04,24,22,1,Y,O-Tum,Artificial,Sulkuw,Artificial,9,2014,1,N,2,,795,93,62,-0.0508,0.0549,-0.0077
+378,15TECU1,3/15/2015,2015,249,254.07,105,65.5,228.39,24,32,1,Y,Susil,Artificial,Tecuya,Artificial,10,2014,2,Y,13,,794,30,67,0,-0.0316,0.0046
+516,15HOY1,3/19/2015,2015,NA,NA,NA,NA,NA,26,22,1,Y,Kaduku,Parent,Hoy,Artificial,14,2014,1,N,1,,NA,97,48,0.004,0.0525,0.0708
+379,15TAKI1,4/3/2015,2015,288.4,292.42,115.5,67,262.87,21,19,1,Y,Inja,Artificial,Takihin,Parent,1,2014,2,Y,4,,801,139,104,-0.03,-0.0375,-0.0092
+380,15KITS1,4/8/2015,2015,305.8,309.04,118.5,68,277.81,12,24,1,Y,George,Artificial,Kitsuk,Artificial,7,2014,1,N,1,,802,69,309,-0.0226,0.0046,-0.01
+381,15TOWA1,4/25/2015,2015,273.9,290.95,124,64.5,261.55,22,26,1,Y,Kuhu,Artificial,Towasinah,Artificial,9,2014,1,N,7,,806,49,91,-0.0508,-0.0083,-0.0052
+382,16TAKI1,2/9/2016,2016,303.8,303.97,114.86,68.5,273.25,22,20,1,Y,Inja,Artificial,Takihin,Parent,2,2015,1,N,4,,816,139,104,-0.03,-0.0375,-0.0092
+383,16HONS1,2/12/2016,2016,269.6,278.6,102.65,69.37,250.44,26,26,1,Y,Oneia,Artificial,Honsi,Artificial,10,2015,1,N,7,,819,57,50,0.0549,-0.0508,-0.0077
+384,16KSEN1,2/19/2016,2016,319.2,317.36,115,69.95,285.29,23,23,1,Y,Xopoy,Artificial,Ksen,Artificial,19,2015,1,N,3,,824,94,92,-0.0226,0.0161,-0.0364
+385,16PIRU1,2/19/2016,2016,296.8,308.51,107,71.5,277.33,26,32,1,Y,Tumusai,Artificial,Piru,Artificial,23,2015,1,N,7,,823,34,53,0,0.0161,-0.0339
+386,16KITS1,2/21/2016,2016,306.2,310.85,110.89,70.5,279.43,13,25,1,Y,George,Artificial,Kitsuk,Artificial,8,2015,1,N,1,,825,69,309,-0.0226,0.0046,-0.01
+387,16SIXU1,2/22/2016,2016,299.6,300.29,105.68,70.98,269.94,14,19,1,Y,Yulpok,Artificial,Sixut,Artificial,2,2015,1,N,1,,826,166,282,-0.0083,-0.0077,0.0346
+388,16HOY1,2/23/2016,2016,NA,NA,NA,NA,NA,27,23,1,Y,Kaduku,Parent,Hoy,Artificial,15,2015,1,N,1,,827,97,48,0.004,0.0525,0.0708
+389,16HUYA1,2/27/2016,2016,287.8,289.96,113.51,67.3,260.66,22,23,1,Y,Antop,Artificial,Huya,Artificial,10,2015,1,N,2,,834,88,99,0.0549,0.0525,0.1113
+390,16LIKU1,2/27/2016,2016,NA,NA,NA,NA,NA,23,23,1,NA,Wishtoyo,Artificial,Likuyi,Artificial,19,2015,1,N,6,,NA,96,83,-0.0591,0.0023,0.036
+391,16CHUH1,3/3/2016,2016,301.5,311.76,115,69.33,280.25,27,26,1,Y,Shasta,Artificial,Chuhlna,Artificial,11,2015,1,N,4,,836,51,47,-0.0508,-0.0316,-0.0179
+392,16TENE1,3/6/2016,2016,61.4,61.39,60.8,42.31,55.18,20,25,1,N,137,Artificial,Teneiya,Artificial,2,2015,0,N,1,,NA,70,137,-0.0226,-0.0591,0.0329
+393,16SULK1,3/9/2016,2016,300.1,293.86,106,70.11,264.16,25,23,1,Y,O-Tum,Artificial,Sulkuw,Artificial,10,2015,1,N,2,,837,93,62,-0.0508,0.0549,-0.0077
+394,16TOWA1,3/25/2016,2016,235.5,238.61,104,63.78,214.49,23,27,1,N,Kuhu,Artificial,Towasinah,Artificial,10,2015,1,N,7,,NA,49,91,-0.0508,-0.0083,-0.0052
+395,16LIKU2,3/26/2016,2016,270.7,272.44,103.7,68.25,244.9,23,23,2,Y,Wishtoyo,Artificial,Likuyi,Artificial,19,2015,1,N,6,,840,96,83,-0.0591,0.0023,0.036
+396,16TAKI2,3/31/2016,2016,292.3,287.39,110.2,68,258.35,22,20,2,Y,Inja,Artificial,Takihin,Parent,2,2015,1,N,4,,NA,139,104,-0.03,-0.0375,-0.0092
+397,16KSEN2,4/10/2016,2016,299.4,299.45,112.46,68.71,269.18,23,23,2,Y,Xopoy,Artificial,Ksen,Artificial,19,2015,1,N,3,,844,94,92,-0.0226,0.0161,-0.0364
+398,17PIRU1,2/15/2017,2017,266.4,274.81,102.55,68.93,247.04,27,33,1,Y,Tumusai,Artificial,Piru,Artificial,24,2016,1,N,7,,863,34,53,0,0.0161,-0.0339
+399,17SIXU1,2/18/2017,2017,311.8,313.42,108.7,71.5,281.74,15,20,1,Y,Yulpok,Artificial,Sixut,Artificial,3,2016,1,N,1,,868,166,282,-0.0083,-0.0077,0.0346
+400,17TAKI1,2/20/2017,2017,300.3,299.33,113.97,68.24,269.08,23,21,1,Y,Inja,Artificial,Takihin,Parent,3,2016,2,Y,5,,869,139,104,-0.03,-0.0375,-0.0092
+401,17HONS1,2/21/2017,2017,270.3,275.07,102.5,68.98,247.27,27,27,1,Y,Oneia,Artificial,Honsi,Artificial,11,2016,1,N,7,,870,57,50,0.0549,-0.0508,-0.0077
+403,17HUYA1,2/22/2017,2017,282.3,288.78,113.25,67.24,259.6,23,24,1,Y,Antop,Artificial,Huya,Artificial,11,2016,1,N,2,,872,88,99,0.0549,0.0525,0.1113
+402,17HOY1,2/22/2017,2017,280.4,274.05,98.46,70.25,246.35,28,24,1,Y,Kaduku,Parent,Hoy,Artificial,16,2016,1,N,1,,NA,97,48,0.004,0.0525,0.0708
+404,17KARE1,2/24/2017,2017,293.5,294.24,111.51,68.4,264.51,25,27,1,Y,Tapu,Parent,Kareya,Artificial,23,2016,0,N,1,,873,56,71,0.0525,-0.0316,0.05
+405,17CHUH1,2/25/2017,2017,301.9,303.97,112.29,69.28,273.25,28,27,1,Y,Shasta,Artificial,Chuhlna,Artificial,12,2016,1,N,4,,874,51,47,-0.0508,-0.0316,-0.0179
+406,17KSEN1,3/4/2017,2017,314,311.05,113.49,69.71,279.61,24,24,1,Y,Xopoy,Artificial,Ksen,Artificial,20,2016,2,Y,4,,875,94,92,-0.0226,0.0161,-0.0364
+407,17TENE1,3/7/2017,2017,237,239.64,102.13,64.5,215.42,21,26,1,Y,137,Artificial,Teneiya,Artificial,3,2016,1,N,1,,876,70,137,-0.0226,-0.0591,0.0329
+408,17TOWA1,3/9/2017,2017,297.3,300.34,115.47,67.91,269.99,24,28,1,Y,Kuhu,Artificial,Towasinah,Artificial,11,2016,1,N,7,,881,49,91,-0.0508,-0.0083,-0.0052
+409,17SULK1,3/17/2017,2017,NA,NA,NA,NA,NA,26,24,1,NA,O-Tum,Artificial,Sulkuw,Artificial,11,2016,1,N,2,,NA,93,62,-0.0508,0.0549,-0.0077
+410,17SIXU2,3/24/2017,2017,277.6,277.37,104.23,68.69,249.34,15,20,2,Y,Yulpok,Artificial,Sixut,Artificial,3,2016,1,N,1,,885,166,282,-0.0083,-0.0077,0.0346
+411,17HONS2,3/31/2017,2017,253.9,256.8,99.49,67.65,230.85,27,27,2,Y,Oneia,Artificial,Honsi,Artificial,11,2016,1,N,7,,887,57,50,0.0549,-0.0508,-0.0077
+412,17PIRU2,4/1/2017,2017,275.9,288.83,106.42,69.37,259.64,27,33,2,Y,Tumusai,Artificial,Piru,Artificial,24,2016,1,N,7,,886,34,53,0,0.0161,-0.0339
+413,17CHUH2,4/3/2017,2017,278.4,272.17,106.99,67.16,244.67,28,27,2,Y,Shasta,Artificial,Chuhlna,Artificial,12,2016,1,N,4,,890,51,47,-0.0508,-0.0316,-0.0179
+414,17LIKU1,4/3/2017,2017,272.5,272.86,106.34,67.45,245.28,24,24,1,Y,Wishtoyo,Artificial,Likuyi,Artificial,20,2016,2,Y,7,,889,96,83,-0.0591,0.0023,0.036
+415,17SULK2,4/20/2017,2017,289.1,288.2,111.69,67.64,259.08,26,24,2,Y,O-Tum,Artificial,Sulkuw,Artificial,11,2016,1,N,2,,894,93,62,-0.0508,0.0549,-0.0077
+416,18TAKI1,2/11/2018,2018,305,NA,NA,NA,NA,24,22,1,Y,Inja,Artificial,Takihin,Parent,4,2017,1,N,5,,917,139,104,-0.03,-0.0375,-0.0092
+417,18HONS1,2/13/2018,2018,248.4,254.72,101,66.87,228.98,28,28,1,Y,Oneia,Artificial,Honsi,Artificial,12,2017,2,Y,8,,918,57,50,0.0549,-0.0508,-0.0077
+418,18ROTC1,2/13/2018,2018,280.3,281.59,110.07,67.35,253.13,8,27,1,N,571,Parent,Rotciwi,Artificial,2,2017,0,N,1,,NA,59,571,0.0161,-0.0097,0.0058
+419,18HOY1,2/17/2018,2018,224.3,274.3,98.13,70.4,246.58,29,25,1,N,Kaduku,Parent,Hoy,Artificial,17,2017,1,N,1,,NA,97,48,0.004,0.0525,0.0708
+420,18KSEN1,2/24/2018,2018,304.1,296.72,110.5,69,266.73,25,25,1,Y,Xopoy,Artificial,Ksen,Artificial,21,2017,1,N,4,,928,94,92,-0.0226,0.0161,-0.0364
+421,18SIXU1,2/24/2018,2018,298,292.97,104.69,70.44,263.36,16,21,1,Y,Yulpok,Artificial,Sixut,Artificial,4,2017,2,Y,2,,929,166,282,-0.0083,-0.0077,0.0346
+422,18HOSI1,2/28/2018,2018,268.5,265.9,105.34,66.9,239.03,8,25,1,Y,580,Parent,Hosima,Parent,2,2017,0,N,4,,930,84,580,0.0023,0.0197,0.0217
+423,18TOWA1,2/28/2018,2018,284.3,295.81,115.25,67.46,265.91,25,29,1,N,Kuhu,Artificial,Towasinah,Artificial,12,2017,1,N,7,,NA,49,91,-0.0508,-0.0083,-0.0052
+424,18KITS1,3/2/2018,2018,306.2,310.14,112.77,69.83,278.8,15,27,1,Y,George,Artificial,Kitsuk,Artificial,10,2017,0,N,1,,934,69,309,-0.0226,0.0046,-0.01
+425,18PIRU1,3/4/2018,2018,290.8,299.87,106.1,70.79,269.57,28,34,1,Y,Tumusai,Artificial,Piru,Artificial,25,2017,2,Y,8,,935,34,53,0,0.0161,-0.0339
+426,18LIKU1,3/5/2018,2018,NA,NA,NA,NA,NA,25,25,1,NA,Wishtoyo,Artificial,Likuyi,Artificial,21,2017,1,N,7,,NA,96,83,-0.0591,0.0023,0.036
+427,18CHUH1,3/12/2018,2018,287,291.16,113.54,67.43,261.74,29,28,1,Y,Shasta,Artificial,Chuhlna,Artificial,13,2017,2,Y,5,,940,51,47,-0.0508,-0.0316,-0.0179
+428,18KARE1,3/15/2018,2018,295.2,291.32,111.64,68.02,261.88,NA,28,1,NA,NA,NA,Kareya,Artificial,NA,2017,1,N,1,,NA,56,NA,0.0525,NA,NA
+429,18TAKI2,3/20/2018,2018,286,286.05,114.31,66.61,257.14,24,22,2,Y,Inja,Artificial,Takihin,Parent,4,2017,1,N,5,,942,139,104,-0.03,-0.0375,-0.0092
+430,18SULK1,4/1/2018,2018,295.2,289.37,109.44,68.47,260.13,27,25,1,Y,O-Tum,Artificial,Sulkuw,Artificial,12,2017,2,Y,3,,944,93,62,-0.0508,0.0549,-0.0077
+431,18HOY2,4/2/2018,2018,279.2,276.16,101.34,69.51,248.25,29,25,2,Y,Kaduku,Parent,Hoy,Artificial,17,2017,1,N,1,,947,97,48,0.004,0.0525,0.0708
+432,18LIKU2,4/4/2018,2018,249.7,264.81,101.63,67.97,238.05,25,25,2,Y,Wishtoyo,Artificial,Likuyi,Artificial,21,2017,1,N,7,,945,96,83,-0.0591,0.0023,0.036
+433,18TOWA2,4/7/2018,2018,275,276.15,114.58,65.37,248.24,25,29,2,Y,Kuhu,Artificial,Towasinah,Artificial,12,2017,1,N,7,,948,49,91,-0.0508,-0.0083,-0.0052
+434,18CHUH2,4/20/2018,2018,276.8,277.09,113.06,65.92,249.09,29,28,2,Y,Shasta,Artificial,Chuhlna,Artificial,13,2017,2,Y,5,,951,51,47,-0.0508,-0.0316,-0.0179
+435,18KSEN2,4/23/2018,2018,255.4,317.48,112.36,70.78,285.39,25,25,2,Y,Xopoy,Artificial,Ksen,Artificial,21,2017,1,N,4,,NA,94,92,-0.0226,0.0161,-0.0364
+436,19TAKI1,2/5/2019,2019,295.1,296.51,115.25,67.54,266.55,25,23,1,Y,Inja,Artificial,Takihin,Parent,5,2018,2,Y,6,,971,139,104,-0.03,-0.0375,-0.0092
+437,19HOSI1,2/12/2019,2019,267.7,268.42,99.5,69.16,241.29,9,26,1,Y,580,Parent,Hosima,Parent,3,2018,1,N,4,,972,84,580,0.0023,0.0197,0.0217
+438,19HONS1,2/13/2019,2019,264.4,273.36,104.39,68.14,245.74,29,29,1,Y,Oneia,Artificial,Honsi,Artificial,13,2018,1,N,8,,973,57,50,0.0549,-0.0508,-0.0077
+439,19SIXU1,2/14/2019,2019,304.4,303.73,104.52,71.78,273.03,17,22,1,Y,Yulpok,Artificial,Sixut,Artificial,5,2018,1,N,2,,977,166,282,-0.0083,-0.0077,0.0346
+440,19KITS1,2/19/2019,2019,304.5,301.43,111.93,69.1,270.96,16,28,1,Y,George,Artificial,Kitsuk,Artificial,11,2018,1,N,1,,974,69,309,-0.0226,0.0046,-0.01
+441,19KSEN1,2/20/2019,2019,307,300.78,113.06,68.68,270.38,26,26,1,N,Xopoy,Artificial,Ksen,Artificial,22,2018,2,Y,5,,NA,94,92,-0.0226,0.0161,-0.0364
+442,19ROTC1,2/21/2019,2019,284.2,287,106.85,69.01,257.99,9,28,1,N,571,Parent,Rotciwi,Artificial,3,2018,1,N,1,,NA,59,571,0.0161,-0.0097,0.0058
+443,19PIRU1,2/24/2019,2019,292.3,300.53,109.84,69.65,270.15,29,35,1,Y,Tumusai,Artificial,Piru,Artificial,26,2018,1,N,8,,981,34,53,0,0.0161,-0.0339
+444,19HOY1,2/25/2019,2019,NA,NA,NA,NA,NA,30,26,1,Y,Kaduku,Parent,Hoy,Artificial,18,2018,2,Y,2,,982,97,48,0.004,0.0525,0.0708
+445,19HUYA1,2/27/2019,2019,292.4,294.7,114.14,67.66,264.92,33,26,1,Y,Nojoqui,Parent,Huya,Artificial,2,2018,0,N,2,,983,88,44,0.0549,-0.0333,0.0187
+446,19LIKU1,3/4/2019,2019,NA,NA,NA,NA,NA,26,26,1,NA,Wishtoyo,Artificial,Likuyi,Artificial,22,2018,2,Y,8,,NA,96,83,-0.0591,0.0023,0.036
+447,19TOWA1,3/8/2019,2019,282.9,284.47,115.02,66.22,255.72,26,30,1,Y,Kuhu,Artificial,Towasinah,Artificial,13,2018,2,Y,8,,987,49,91,-0.0508,-0.0083,-0.0052
+448,19TENE1,3/10/2019,2019,217.1,218.1,98.49,62.66,196.06,23,28,1,Y,137,Artificial,Teneiya,Artificial,5,2018,0,N,1,,988,70,137,-0.0226,-0.0591,0.0329
+449,19KARE1,3/12/2019,2019,285.8,287.07,108.73,68.42,258.06,NA,29,1,NA,NA,NA,Kareya,Artificial,NA,2018,1,N,1,,NA,56,NA,0.0525,NA,NA
+450,19CHUH1,3/17/2019,2019,296.8,289.92,105.75,69.72,260.62,30,29,1,Y,Shasta,Artificial,Chuhlna,Artificial,14,2018,2,Y,6,,990,51,47,-0.0508,-0.0316,-0.0179
+451,19SULK1,3/23/2019,2019,303.8,302.3,108.3,70.35,271.75,28,26,1,Y,O-Tum,Artificial,Sulkuw,Artificial,13,2018,1,N,3,,995,93,62,-0.0508,0.0549,-0.0077
+452,20ROTC1,2/6/2020,2020,285.2,285.09,104.71,69.48,256.28,10,29,1,N,571,Parent,Rotciwi,Artificial,4,2019,1,N,1,,NA,59,571,0.0161,-0.0097,0.0058
+453,20HUYA1,2/12/2020,2020,280.6,286.69,111.83,67.42,257.72,34,27,1,Y,Nojoqui,Parent,Huya,Artificial,3,2019,1,N,2,,1018,88,44,0.0549,-0.0333,0.0187
+454,20HOSI1,2/13/2020,2020,263.2,259.36,101.62,67.27,233.15,10,27,1,Y,580,Parent,Hosima,Parent,4,2019,1,N,4,,1019,84,580,0.0023,0.0197,0.0217
+455,20TAKI1,2/15/2020,2020,306.6,307.07,113.63,69.22,276.04,26,24,1,Y,Inja,Artificial,Takihin,Parent,6,2019,1,N,6,,1020,139,104,-0.03,-0.0375,-0.0092
+456,20SIXU1,2/22/2020,2020,301.1,293.87,105.55,70.26,264.17,18,23,1,Y,Yulpok,Artificial,Sixut,Artificial,6,2019,1,N,2,,1026,166,282,-0.0083,-0.0077,0.0346
+457,20KSEN1,2/23/2020,2020,288.9,288.08,110.92,67.86,258.97,27,27,1,Y,Xopoy,Artificial,Ksen,Artificial,23,2019,1,N,5,,1025,94,92,-0.0226,0.0161,-0.0364
+458,20TENE1,3/8/2020,2020,230.1,235.92,98.43,65.19,212.08,24,29,1,Y,137,Artificial,Teneiya,Artificial,6,2019,1,N,1,,1032,70,137,-0.0226,-0.0591,0.0329
+459,20TOWA1,3/13/2020,2020,297.1,300.53,115.51,67.92,270.16,27,31,1,Y,Kuhu,Artificial,Towasinah,Artificial,14,2019,1,N,8,,1036,49,91,-0.0508,-0.0083,-0.0052
+460,20ROTC2,3/18/2020,2020,276.3,282.76,106.97,68.46,254.18,10,29,2,N,571,Parent,Rotciwi,Artificial,4,2019,1,N,1,,NA,59,571,0.0161,-0.0097,0.0058
+461,20TAKI2,3/20/2020,2020,288.4,292.02,115.48,66.96,262.51,26,24,2,Y,Inja,Artificial,Takihin,Parent,6,2019,1,N,6,,1041,139,104,-0.03,-0.0375,-0.0092
+462,20PIRU1,3/26/2020,2020,288,298.23,106.54,70.45,268.09,30,36,1,Y,Tumusai,Artificial,Piru,Artificial,27,2019,1,N,8,,1044,34,53,0,0.0161,-0.0339
+463,20KSEN2,3/29/2020,2020,288.9,288.95,111.32,67.84,259.75,27,27,2,Y,Xopoy,Artificial,Ksen,Artificial,23,2019,1,N,5,,1045,94,92,-0.0226,0.0161,-0.0364
+464,20CACH1,4/1/2020,2020,237.9,246.97,108.87,63.42,222.01,28,37,1,N,Tapu,Parent,Cachuma,Parent,1,2019,NA,N,7,,NA,31,71,0,-0.0316,0.021
+465,21HOSI1,2/7/2021,2021,268.7,261.07,103.3,66.94,234.68,11,28,1,Y,580,Parent,Hosima,Parent,5,2020,1,N,4,,1070,84,580,0.0023,0.0197,0.0217
+466,21HUYA1,2/9/2021,2021,288.4,290.52,113.09,67.49,261.16,35,28,1,Y,Nojoqui,Parent,Huya,Artificial,4,2020,1,N,2,,1073,88,44,0.0549,-0.0333,0.0187
+467,21PIRU1,2/19/2021,2021,278.8,282.96,102.36,70.01,254.37,31,37,1,Y,Tumusai,Artificial,Piru,Artificial,28,2020,1,N,8,,1080,34,53,0,0.0161,-0.0339
+468,21SIXU1,2/21/2021,2021,297.1,289.77,102.7,70.73,260.49,19,24,1,Y,Yulpok,Artificial,Sixut,Artificial,7,2020,1,N,2,,1081,166,282,-0.0083,-0.0077,0.0346
+470,21KSEN1,2/23/2021,2021,307.6,298.47,111.09,69.02,268.31,28,28,1,Y,Xopoy,Artificial,Ksen,Artificial,24,2020,2,Y,6,,1083,94,92,-0.0226,0.0161,-0.0364
+469,21KITS1,2/23/2021,2021,297.1,310.22,110.54,70.54,278.87,16,30,1,Y,385,Parent,Kitsuk,Artificial,2,2020,0,N,1,,1082,69,385,-0.0226,0.0062,-0.0157
+471,21TAKI1,2/24/2021,2021,300.2,302.21,113.5,68.71,271.67,27,25,1,Y,Inja,Artificial,Takihin,Parent,7,2020,2,Y,7,,1086,139,104,-0.03,-0.0375,-0.0092
+472,21HONS1,2/26/2021,2021,259,264.79,97.73,69.31,238.03,18,31,1,N,George,Artificial,Honsi,Artificial,1,2020,NA,N,8,,NA,57,309,0.0549,0.0046,0.0495
+473,21CACH1,3/4/2021,2021,232.6,241.64,103.56,64.32,217.22,29,38,1,Y,Tapu,Parent,Cachuma,Parent,2,2020,1,N,7,,1091,31,71,0,-0.0316,0.021
+474,21HOY1,3/8/2021,2021,274,272.5,103.33,68.38,244.96,25,28,1,N,Mali,Artificial,Hoy,Artificial,2,2020,0,N,2,,NA,97,145,0.004,0.0161,0.0382
+475,21KSEN2,4/3/2021,2021,291.4,289.09,111.21,67.89,259.87,28,28,2,Y,Xopoy,Artificial,Ksen,Artificial,24,2020,2,Y,6,,1108,94,92,-0.0226,0.0161,-0.0364
+476,21HONS2,4/7/2021,2021,255.3,264.03,100.06,68.4,237.35,18,31,2,Y,George,Artificial,Honsi,Artificial,1,2020,NA,N,8,,1109,57,309,0.0549,0.0046,0.0495
+477,21TENE1,4/20/2021,2021,228,227.38,106.35,61.57,204.4,25,30,1,N,137,Artificial,Teneiya,Artificial,7,2020,1,N,1,,NA,70,137,-0.0226,-0.0591,0.0329
+478,22HUYA1,2/9/2022,2022,283.1,284.16,110.35,67.57,255.44,36,29,1,Y,Nojoqui,Parent,Huya,Artificial,5,2021,1,N,2,,1130,88,44,0.0549,-0.0333,0.0187
+479,22SIXU1,2/13/2022,2022,304.2,305.24,106.46,71.3,274.39,20,25,1,Y,Yulpok,Artificial,Sixut,Artificial,8,2021,1,N,2,,1132,166,282,-0.0083,-0.0077,0.0346
+480,22HOSI1,2/14/2022,2022,266.3,263.25,102.96,67.33,236.64,12,29,1,Y,580,Parent,Hosima,Parent,6,2021,1,N,4,,1133,84,580,0.0023,0.0197,0.0217
+481,22CHUH1,2/19/2022,2022,292.9,286.66,113.63,66.88,257.69,29,32,1,Y,Wishtoyo,Artificial,Chuhlna,Artificial,2,2021,0,N,6,,1134,51,83,-0.0508,0.0023,0.0437
+482,22HONS1,2/20/2022,2022,265.7,268.05,101.2,68.53,240.96,19,32,1,N,George,Artificial,Honsi,Artificial,2,2021,2,Y,9,,NA,57,309,0.0549,0.0046,0.0495
+483,22ITAX1,2/27/2022,2022,312.2,313.73,103.87,73.18,282.02,31,26,1,Y,Pawoco,Artificial,Itaxmay,Artificial,1,2021,3,Y,NA,,NA,141,60,-0.0083,0.0525,0.0417
+484,22ROTC1,3/4/2022,2022,293.1,297.93,103.91,71.3,267.82,39,31,1,Y,Cuyama,Parent,Rotciwi,Artificial,1,2021,0,N,2,,NA,59,27,0.0161,0,0.0551
+485,22CACH1,3/6/2022,2022,229.7,237.22,99.92,64.88,213.25,30,39,1,Y,Tapu,Parent,Cachuma,Parent,3,2021,1,N,7,,NA,31,71,0,-0.0316,0.021
+486,22KITS1,3/6/2022,2022,294.6,292.54,112.24,67.98,262.98,17,31,1,Y,385,Parent,Kitsuk,Artificial,3,2021,1,N,1,,1143,69,385,-0.0226,0.0062,-0.0157
+487,22KSEN1,3/6/2022,2022,286.8,285.6,109.03,68.15,256.74,29,29,1,Y,Xopoy,Artificial,Ksen,Artificial,25,2021,2,Y,7,,1142,94,92,-0.0226,0.0161,-0.0364
+488,22TOWA1,3/8/2022,2022,286.4,NA,NA,NA,NA,29,33,1,Y,Kuhu,Artificial,Towasinah,Artificial,16,2021,0,N,8,,1147,49,91,-0.0508,-0.0083,-0.0052
+489,22HOY1,3/12/2022,2022,265.5,259.84,96.88,68.96,233.58,26,29,1,Y,Mali,Artificial,Hoy,Artificial,3,2021,1,N,2,,1149,97,145,0.004,0.0161,0.0382
+490,22PIRU1,3/21/2022,2022,261.6,268.52,107.11,66.67,241.38,32,38,1,Y,Tumusai,Artificial,Piru,Artificial,29,2021,1,N,8,,1157,34,53,0,0.0161,-0.0339
+491,22HONS2,3/25/2022,2022,247.1,250.84,99.61,66.82,225.49,19,32,2,Y,George,Artificial,Honsi,Artificial,2,2021,2,Y,9,,1167,57,309,0.0549,0.0046,0.0495
+492,22HOSI2,3/29/2022,2022,248.5,249.11,105.22,64.79,223.94,12,29,2,Y,580,Parent,Hosima,Parent,6,2021,1,N,4,,1168,84,580,0.0023,0.0197,0.0217
+493,23SIXU1,2/2/2023,2023,303.8,308.26,105.99,71.81,277.1,21,26,1,Y,Yulpok,Artificial,Sixut,Artificial,9,2022,1,N,2,,1189,166,282,-0.0083,-0.0077,0.0346
+494,23HONS1,2/22/2023,2023,271,277.48,100.49,69.97,249.43,20,33,1,Y,George,Artificial,Honsi,Artificial,3,2022,2,Y,10,,1196,57,309,0.0549,0.0046,0.0495
+496,23PIRU1,2/25/2023,2023,262.1,264.34,103.57,67.27,237.62,33,39,1,Y,Tumusai,Artificial,Piru,Artificial,30,2022,1,N,8,,1202,34,53,0,0.0161,-0.0339
+495,23ITAX1,2/25/2023,2023,318.6,317.41,102.11,74.24,285.33,32,27,1,Y,Pawoco,Artificial,Itaxmay,Artificial,2,2022,1,N,NA,,1203,141,60,-0.0083,0.0525,0.0417
+497,23HOY1,3/6/2023,2023,266,260.62,100.73,67.73,234.28,27,30,1,Y,Mali,Artificial,Hoy,Artificial,4,2022,1,N,2,,1209,97,145,0.004,0.0161,0.0382
+499,23SIXU2,3/8/2023,2023,278.3,278.97,104.71,68.73,250.78,21,26,2,Y,Yulpok,Artificial,Sixut,Artificial,9,2022,1,N,2,,NA,166,282,-0.0083,-0.0077,0.0346
+498,23KSEN1,3/8/2023,2023,NA,NA,NA,NA,NA,30,30,1,NA,Xopoy,Artificial,Ksen,Artificial,26,2022,1,N,7,,NA,94,92,-0.0226,0.0161,-0.0364
+500,23HOSI1,3/11/2023,2023,263.5,262.43,103.47,67.06,235.91,13,30,1,Y,580,Parent,Hosima,Parent,7,2022,2,Y,5,,1211,84,580,0.0023,0.0197,0.0217
+501,23CACH1,3/12/2023,2023,227.8,237.35,103.29,63.83,213.36,31,40,1,Y,Tapu,Parent,Cachuma,Parent,4,2022,1,N,7,,1212,31,71,0,-0.0316,0.021
+502,23TOWA1,3/14/2023,2023,287.9,290.3,109.31,68.62,260.96,30,34,1,Y,Kuhu,Artificial,Towasinah,Artificial,17,2022,1,N,8,,1216,49,91,-0.0508,-0.0083,-0.0052
+503,23CHUH1,3/15/2023,2023,291.4,294.04,112.78,67.99,264.32,30,33,1,Y,Wishtoyo,Artificial,Chuhlna,Artificial,3,2022,1,N,6,,1220,51,83,-0.0508,0.0023,0.0437
+504,23KITS1,3/16/2023,2023,301.4,304.57,110.05,70.05,273.79,18,32,1,Y,385,Parent,Kitsuk,Artificial,4,2022,1,N,0,,1223,69,385,-0.0226,0.0062,-0.0157
+505,23HUYA1,3/18/2023,2023,283.5,286.79,112.4,67.26,257.8,37,30,1,Y,Nojoqui,Parent,Huya,Artificial,6,2022,1,N,2,,1222,88,44,0.0549,-0.0333,0.0187
+506,23TENE1,3/20/2023,2023,218.2,221.26,100.88,62.36,198.9,27,32,1,Y,137,Artificial,Teneiya,Artificial,9,2022,0,N,1,,1228,70,137,-0.0226,-0.0591,0.0329
+507,23KSEN2,4/8/2023,2023,302.8,302.18,113.72,68.64,271.64,30,30,2,Y,Xopoy,Artificial,Ksen,Artificial,26,2022,1,N,7,,1236,94,92,-0.0226,0.0161,-0.0364
+508,23HOSI2,4/9/2023,2023,251,247.61,100.39,66.13,222.58,13,30,2,Y,580,Parent,Hosima,Parent,7,2022,2,Y,5,,1237,84,580,0.0023,0.0197,0.0217
+509,23ROTC1,4/9/2023,2023,266.7,270.28,101.3,68.78,242.96,40,32,1,N,Cuyama,Parent,Rotciwi,Artificial,2,2022,1,N,2,,NA,59,27,0.0161,0,0.0551
+510,23PIRU2,4/11/2023,2023,267.2,274.9,105.41,68,247.12,33,39,2,N,Tumusai,Artificial,Piru,Artificial,30,2022,1,N,8,,NA,34,53,0,0.0161,-0.0339
+517,24ITAX1,2/7/2024,2024,330.8,329.03,101.94,75.65,295.78,33,28,1,Y,Pawoco,Artificial,Itaxmay,Artificial,3,2023,1,N,NA,,1268,141,60,-0.0083,0.0525,0.0417
+518,24HOY1,2/9/2024,2024,273.6,268.04,98.05,69.62,240.95,28,31,1,Y,Mali,Artificial,Hoy,Artificial,5,2023,1,N,2,,1273,97,145,0.004,0.0161,0.0382
+519,24SIXU1,2/10/2024,2024,292.8,292.91,105.96,70.01,263.31,22,27,1,Y,Yulpok,Artificial,Sixut,Artificial,10,2023,2,Y,3,,1274,166,282,-0.0083,-0.0077,0.0346
+522,24HUYA1,2/18/2024,2024,283.4,285.38,112.35,67.11,256.54,38,31,1,Y,Nojoqui,Parent,Huya,Artificial,7,2023,1,N,2,,1279,88,44,0.0549,-0.0333,0.0187
+520,24HONS1,2/18/2024,2024,254.4,261.05,97.84,68.78,234.67,21,34,1,Y,George,Artificial,Honsi,Artificial,4,2023,1,N,10,,1277,57,309,0.0549,0.0046,0.0495
+521,24PIRU1,2/18/2024,2024,272.6,284.64,101.8,70.41,255.87,34,40,1,N,Tumusai,Artificial,Piru,Artificial,31,2023,2,Y,9,,NA,34,53,0,0.0161,-0.0339
+523,24HOSI1,2/19/2024,2024,258.9,257.25,103.39,66.42,231.25,14,31,1,Y,580,Parent,Hosima,Parent,8,2023,2,Y,6,,1278,84,580,0.0023,0.0197,0.0217
+524,24CHUH1,2/23/2024,2024,303.8,309.17,109.11,70.88,277.92,31,34,1,Y,Wishtoyo,Artificial,Chuhlna,Artificial,4,2023,1,N,6,,1286,51,83,-0.0508,0.0023,0.0437
+525,24KSEN1,3/4/2024,2024,305.2,305.92,114.16,68.93,275,31,31,1,Y,Xopoy,Artificial,Ksen,Artificial,27,2023,2,Y,8,,1297,94,92,-0.0226,0.0161,-0.0364
+526,24TOWA1,3/7/2024,2024,268.4,268.84,111.31,65.44,241.67,31,35,1,Y,Kuhu,Artificial,Towasinah,Artificial,18,2023,1,N,8,,1299,49,91,-0.0508,-0.0083,-0.0052
+527,24CACH1,3/8/2024,2024,227.9,231.5,102.6,63.25,208.1,32,41,1,N,Tapu,Parent,Cachuma,Parent,5,2023,1,N,7,,NA,31,71,0,-0.0316,0.021
+528,24ROTC1,3/16/2024,2024,261.6,263.56,101.93,67.71,236.93,41,33,1,N,Cuyama,Parent,Rotciwi,Artificial,3,2023,1,N,2,,NA,59,27,0.0161,0,0.0551
+529,24TAAM1,3/22/2024,2024,267.1,280.47,108.79,67.61,252.13,30,5,1,Y,Inja,Artificial,Taamsus,Parent,1,2023,0,N,0,,1306,988,104,0.0496,-0.0375,0.0805
+530,24TENE1,3/26/2024,2024,240.7,242.07,104.59,64.06,217.61,28,33,1,Y,137,Artificial,Teneiya,Artificial,10,2023,1,N,1,,1313,70,137,-0.0226,-0.0591,0.0329
+531,24CHUH2,4/22/2024,2024,267,264.35,110.63,65.09,237.63,31,34,2,N,Wishtoyo,Artificial,Chuhlna,Artificial,4,2023,1,N,6,,NA,51,83,-0.0508,0.0023,0.0437
